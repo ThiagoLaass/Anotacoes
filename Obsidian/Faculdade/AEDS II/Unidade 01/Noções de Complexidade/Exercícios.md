@@ -9,10 +9,13 @@ Exercícios de complexidade:
 
 Operação mais relevante: 
 	multiplicação
+	
 Avaliar sequência e laços: 
 	Faz o fatorial de n e o guarda na variável res
+	
 Há variação de casos? 
 	Não
+	
 Qual o número de operações feitas quando n = {4, 8, 12}? 
 	O número de multiplicações será sempre o valor de n - 1
 

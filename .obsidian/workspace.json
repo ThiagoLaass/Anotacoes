@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "8216ff646404a268",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd7e70580ce0140c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "690aafe0dd4d7b22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Faculdade/AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1234f63b8bfed97d",
+    "type": "split",
+    "children": [
+      {
+        "id": "82f4278e777ce9bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "401d553610ff3720",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eecbe2dfad0b78a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d259b993c17b855",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e4ffd41835464ccc",
+    "type": "split",
+    "children": [
+      {
+        "id": "80aa911f89fed7e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7547dad7c42fbc2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian/Faculdade/AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13c89a1f1206caea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Obsidian/Faculdade/AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cbb59725b07a59b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "428a7a9b86a01e51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian/Faculdade/AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "690aafe0dd4d7b22",
+  "lastOpenFiles": [
+    "Obsidian/Faculdade/Introdução a Pesquisa/Pensamento Científico.md",
+    "Obsidian/Faculdade/AEDS II/Unidade 01/Noções de Complexidade/Exercícios.md",
+    "Obsidian/Faculdade/Sistemas Operacionais/Componentes/Principais.md",
+    "Obsidian/Faculdade/Introdução a Pesquisa/Técnica e Ciência.md",
+    "Obsidian/Faculdade/AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
+    "Obsidian/Faculdade/Engenharia de Requisitos/Elicitação de Requisitos/Tipos.md",
+    "Obsidian/Faculdade/Engenharia de Requisitos/Processos de software/Tipos de processos.md",
+    "Obsidian/Faculdade/Engenharia de Requisitos/Requistos/Definição.md",
+    "README.md"
+  ]
+}
