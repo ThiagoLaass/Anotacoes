@@ -6,21 +6,21 @@
 **Função de complexidade**
 	Quantidade de vezes que a operação mais relevante é executada
 ### Casos de complexidade
-1. Tamanho da entrada
-	1. Características peculiares da entrada
-		1. Ordenação com dados já ordenados
-		1. Ordenação com dados em ordem decrescentes
-		1. Ordenação com dados aleatórios 
+#### 1. Tamanho da entrada
+1. Características peculiares da entrada
+	1. Ordenação com dados já ordenados
+	1. Ordenação com dados em ordem decrescentes
+	1. Ordenação com dados aleatórios 
 		
-2. Três cenários (Para todas entradas possíveis, interesse no pior caso)
-	1. Melhor caso: menor tempo de execução
-		1. f(n) = 1
-	1. Pior caso: maior tempo de execução, tempo máximo de execução do algoritmo
-		1. f(n) = n
-	1. Caso médio: média de tempo de execução
-		1. f(n) = (n+1)/2	
-		
-3. **Complexidade Fixa (Constante)
+#### 2. Três cenários (Para todas entradas possíveis, interesse no pior caso)
+1. Melhor caso: menor tempo de execução
+	1. f(n) = 1
+2. Pior caso: maior tempo de execução, tempo máximo de execução do algoritmo
+	1. f(n) = n
+3. Caso médio: média de tempo de execução
+	1. f(n) = (n+1)/2	
+#### 3. Tipos de Complexidade
+1. **Complexidade Fixa (Constante)
 	1. As instruções são sempre executadas um número fixo de vezes
 	
 4. **Complexidade Logarítmica 

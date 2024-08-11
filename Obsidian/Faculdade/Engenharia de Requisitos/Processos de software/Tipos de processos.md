@@ -5,6 +5,7 @@
 	4. Produto final pode não ser o que o cliente realmente precisava
 	5. Documentação grande demais
 	6. Forma de trabalho e responsabilidades são definidas unicamente por uma pessoa (Micro gerenciamento
+
 2. **Processo Racional Unificado (RUP)**
 	1. **Características** 
 		2. Processo iterativo incremental, desenvolvimento ocorre em ciclos
@@ -34,7 +35,7 @@
 			6. Prepara lançamento
 			7. Documentação Final
 			8. Resolução de problemas
-	4. **Disciplinas**
+	4. **Disciplinas do RUP** 
 		1. Modelagem de negócios
 			1. Entendimento da modelagem do contexto de negócio
 		2. Requisitos
@@ -45,4 +46,5 @@
 			1. Verifica se o sistema atende aos requisitos especificados e está livre de defeitos significativos
 		6. Implantação
 			1. Preparação do sistema para ser entregue ao usuário final, analise feita pelo dev.
+	
 3. **Ágil**
