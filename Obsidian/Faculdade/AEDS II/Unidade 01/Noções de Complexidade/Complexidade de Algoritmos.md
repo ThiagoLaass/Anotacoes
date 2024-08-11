@@ -1,10 +1,23 @@
-**Estudo da complexidade de um algoritmo**
-**Como calcular a complexidade de um algoritmo**
-**Porque estudar a complexidade de algoritmos**
-**Como investigar o custo de um algoritmo**
-	Não é feita em relação ao tempo demorado para executar as funções, visto que o tempo pode variar de uma maquina para outra
-**Função de complexidade**
-	Quantidade de vezes que a operação mais relevante é executada
+### Estudo da complexidade de um algoritmo:
+Com o objetivo de tomar conhecimento das limitações de memória, processamento, e tempo de execução. O tempo de execução tende a crescer com base na quantidade de entradas que o algoritmo tem
+
+### Como calcular a complexidade de um algoritmo
+Define-se o custo de cada operação a ser executada por um algoritmo. 
+	Levando em consideração apenas as operações mais significativas, como exemplificado nos [[Exercícios]] feitos em sala
+
+### Como investigar o custo de um algoritmo:
+Não é feita em relação ao tempo demorado para executar as funções, visto que o tempo pode variar de uma maquina para outra
+	
+### Função de complexidade
+Quantidade de vezes que a operação mais relevante é executada
+	Ou o tempo necessário para a execução de um programa
+##### Exemplo:
+	![[Pasted image 20240810230333.png]]
+	Qual a operação mais relevante?
+		Comparação
+	Quanto tempo se gasta para executar a função?
+		A comparação acontece n-1 vezes para n > 0
+
 ### Casos de complexidade
 #### 1. Tamanho da entrada
 1. Características peculiares da entrada
@@ -44,3 +57,4 @@
 	1. f(n) = c^n
 9. **Complexidade Fatorial
 	1. f(n) = n!
+	2. 
