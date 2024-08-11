@@ -22,39 +22,43 @@ Quantidade de vezes que a operação mais relevante é executada
 #### 1. Tamanho da entrada
 1. Características peculiares da entrada
 	1. Ordenação com dados já ordenados
-	1. Ordenação com dados em ordem decrescentes
-	1. Ordenação com dados aleatórios 
-		
+	2.  Ordenação com dados em ordem decrescentes
+	3. Ordenação com dados aleatórios
 #### 2. Três cenários (Para todas entradas possíveis, interesse no pior caso)
 1. Melhor caso: menor tempo de execução
-	1. f(n) = 1
+	f(n) = 1
 2. Pior caso: maior tempo de execução, tempo máximo de execução do algoritmo
-	1. f(n) = n
+	f(n) = n
 3. Caso médio: média de tempo de execução
-	1. f(n) = (n+1)/2	
+	f(n) = (n+1)/2	
 #### 3. Tipos de Complexidade
 1. **Complexidade Fixa (Constante)
 	1. As instruções são sempre executadas um número fixo de vezes
 	
-4. **Complexidade Logarítmica 
-	1. Algoritmos que resolvem problemas os dividindo em partes menores
-	1. Calcula-se a complexidade com o log em função de n
-	1. **Complexidade nlog(n)
-		1. Quebram o problemas em partes menores
+4. **Complexidade Logarítmica**
+	Algoritmos que resolvem problemas os dividindo em partes menores
+	Calcula-se a complexidade com o log em função de n
+	**Complexidade nlog(n)**
+		Quebram o problemas em partes menores, agrupando as soluções
 		
-5. **Complexidade Linear
-	1. Uma operação é realizada para cada elemento da entrada
+5. **Complexidade Linear**
+	Uma operação é realizada para cada elemento da entrada
+		fn(n) = n
 	
-6. **Complexidade Quadrática
-	1. f(n) = n^2
-	1. Itens processados por pares
-		1. Tipicamente um laço dentro do outro
-	1. Útil para problemas pequenos
+6. **Complexidade Quadrática**
+	Itens processados por pares. 
+	Tipicamente um laço dentro do outro. 
+	Útil para problemas pequenos
+		f(n) = n^2
 	
-7. **Complexidade Cúbica
-	1. f(n) = n^3
-8. **Complexidade Exponencial
-	1. f(n) = c^n
-9. **Complexidade Fatorial
-	1. f(n) = n!
-	2. 
+7. **Complexidade Cúbica**
+	Utilizados em problemas ainda menores do que aqueles na complexidae quadrática
+		f(n) = n^3
+	
+8. **Complexidade Exponencial**
+	Utilizados em algoritmos de força bruta
+		f(n) = c^n
+	
+9. **Complexidade Fatorial**
+	Comportamento similar a exponencial, pórem muito pior na prática
+		f(n) = n!
