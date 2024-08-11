@@ -22,7 +22,6 @@ Quantidade de vezes que a operação mais relevante é executada
 	2.  Ordenação com dados em ordem decrescentes
 	3. Ordenação com dados aleatórios
 #### Três cenários (Para todas entradas possíveis, interesse no pior caso)
-
 1. Melhor caso: menor tempo de execução
 	f(n) = 1
 2. Pior caso: maior tempo de execução, tempo máximo de execução do algoritmo
@@ -30,7 +29,6 @@ Quantidade de vezes que a operação mais relevante é executada
 3. Caso médio: média de tempo de execução
 	f(n) = (n+1)/2	
 #### Tipos de Complexidade
-
 1. **Complexidade Fixa (Constante)**
 	1. As instruções são sempre executadas um número fixo de vezes
 	
