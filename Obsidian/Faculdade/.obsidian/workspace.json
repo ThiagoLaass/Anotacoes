@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "59dd8ed76f75849f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba7a9a3d5f11729c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29e9e075776545d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "396577fc9d541d17",
+    "type": "split",
+    "children": [
+      {
+        "id": "5aa7f52cc5de461a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c93f1b041fb68f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb3001b8b70e6a96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff72f2147832a25b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ea85d4b272c0e9a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d24a8f1cff792d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aae586c174235b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "acbe4094c24c7fb1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5db6cd34f464dec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "537a03e7ced7cb6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "29e9e075776545d1",
+  "lastOpenFiles": []
+}
