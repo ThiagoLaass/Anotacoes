@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
+                "file": "Sistemas Operacionais/Definição-Objetivos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
+                "file": "Sistemas Operacionais/Definição-Objetivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
+                "file": "Sistemas Operacionais/Definição-Objetivos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md"
+                "file": "Sistemas Operacionais/Definição-Objetivos.md"
               }
             }
           }
@@ -147,5 +147,14 @@
     }
   },
   "active": "29e9e075776545d1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Sistemas Operacionais/Componentes/Principais.md",
+    "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
+    "AEDS II/Unidade 01/Noções de Complexidade/Exercícios.md",
+    "Engenharia de Requisitos/Problemas no desenvolvimento/Problemas de desenvolvimento.md",
+    "Engenharia de Requisitos/Problemas no desenvolvimento/Importância da Analise do Projeto.md",
+    "Engenharia de Requisitos/Elicitação de Requisitos/Tipos.md",
+    "Introdução a Pesquisa/Técnica e Ciência.md",
+    "Introdução a Pesquisa/Pensamento Científico.md"
+  ]
 }
