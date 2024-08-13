@@ -5,7 +5,7 @@
 	1. Programa mais profundo do computador/núcleo do sistema operacional, ou seja, a parte principal do computador.
 	2. Responsável por dar "boot" no computador
 
-1. Objetivos
-	1. Tornar mais conveniente a utilização do computador
-	2. Tornar a utilização dos recursos de hardware mais eficiente
-	3. Facilita a atualização e melhoria do sistema
+### Objetivos
+1. Tornar mais conveniente a utilização do computador
+2. Tornar a utilização dos recursos de hardware mais eficiente
+3. Facilita a atualização e melhoria do sistema
