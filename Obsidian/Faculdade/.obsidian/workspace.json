@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ba7a9a3d5f11729c",
+        "id": "0e28b3ee3df509e7",
         "type": "tabs",
         "children": [
           {
-            "id": "29e9e075776545d1",
+            "id": "8e48f23785b4e1df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operacionais/Definição-Objetivos.md",
+                "file": "Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 289.5
   },
   "right": {
     "id": "ea85d4b272c0e9a7",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operacionais/Definição-Objetivos.md",
+                "file": "Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operacionais/Definição-Objetivos.md",
+                "file": "Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operacionais/Definição-Objetivos.md"
+                "file": "Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md"
               }
             }
           }
@@ -146,14 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29e9e075776545d1",
+  "active": "8e48f23785b4e1df",
   "lastOpenFiles": [
-    "Sistemas Operacionais/Componentes/Principais.md",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/UI.md",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
     "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
+    "Sistemas Operacionais/Componentes/Principais componentes do SO.md",
+    "Definição-Objetivos.md",
+    "Engenharia de Requisitos/Elicitação de Requisitos/Tipos.md",
+    "Sistemas Operacionais/Estrutura base do SO/Software",
+    "Sistemas Operacionais/Estrutura base do SO/Untitled.md",
+    "Sistemas Operacionais/Estrutura base do SO/Hardware",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação",
     "AEDS II/Unidade 01/Noções de Complexidade/Exercícios.md",
     "Engenharia de Requisitos/Problemas no desenvolvimento/Problemas de desenvolvimento.md",
     "Engenharia de Requisitos/Problemas no desenvolvimento/Importância da Analise do Projeto.md",
-    "Engenharia de Requisitos/Elicitação de Requisitos/Tipos.md",
     "Introdução a Pesquisa/Técnica e Ciência.md",
     "Introdução a Pesquisa/Pensamento Científico.md"
   ]
