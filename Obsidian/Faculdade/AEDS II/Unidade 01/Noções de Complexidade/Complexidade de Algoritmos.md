@@ -1,25 +1,33 @@
 ### Estudo da complexidade de um algoritmo:
-Com o objetivo de tomar conhecimento das limitações de memória, processamento, e tempo de execução. O tempo de execução tende a crescer com base na quantidade de entradas que o algoritmo tem
+- Com o objetivo de tomar conhecimento das limitações de memória, processamento, e tempo de execução. 
+- O tempo de execução tende a crescer com base na quantidade de entradas que o algoritmo tem
 ### Como calcular a complexidade de um algoritmo:
-Define-se o custo de cada operação a ser executada por um algoritmo. 
-	Levando em consideração apenas as operações mais significativas, como exemplificado nos [[Exercícios]] feitos em sala
+- Define-se o custo de cada operação a ser executada por um algoritmo. 
+	- Levando em consideração apenas as operações mais significativas, como exemplificado nos [[Exercícios de complexidade]] feitos em sala
 ### Como investigar o custo de um algoritmo:
-Não é feita em relação ao tempo demorado para executar as funções, visto que o tempo pode variar de uma maquina para outra
+- Não é feita em relação ao tempo demorado para executar as funções, visto que o tempo pode variar de uma maquina para outra
 ### Função de complexidade:
-Quantidade de vezes que a operação mais relevante é executada
-	Ou o tempo necessário para a execução de um programa
+- Quantidade de vezes que a operação mais relevante é executada
+	- Ou o tempo necessário para a execução de um programa
 ##### Exemplo:
 	![[Pasted image 20240810230333.png]]
 	Qual a operação mais relevante?
 		Comparação
 	Quanto tempo se gasta para executar a função?
 		A comparação acontece n-1 vezes para n > 0
+##### Exemplo 2:
+##### ![[Pasted image 20240813220352.png]]
+Qual a operação mais importante?
+	multiplicação
+Complexidade:
+	n(n-7)
+	**Dica: multiplicar o for de fora pelo de dentro**
 
 ### Casos de complexidade
 #### Tamanho da entrada
 1. Características peculiares da entrada
 	1. Ordenação com dados já ordenados
-	2.  Ordenação com dados em ordem decrescentes
+	2. Ordenação com dados em ordem decrescentes
 	3. Ordenação com dados aleatórios
 #### Três cenários (Para todas entradas possíveis, interesse no pior caso)
 1. Melhor caso: menor tempo de execução
@@ -43,9 +51,9 @@ Quantidade de vezes que a operação mais relevante é executada
 		fn(n) = n
 	
 4. **Complexidade Quadrática**
-	Itens processados por pares. 
-	Tipicamente um laço dentro do outro. 
-	Útil para problemas pequenos
+	- Itens processados por pares. 
+	- Tipicamente um laço dentro do outro. 
+	- Útil para problemas pequenos
 		f(n) = n^2
 	
 5. **Complexidade Cúbica**
