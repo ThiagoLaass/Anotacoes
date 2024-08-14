@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AEDS II/Unidade 01/Exercícios/Exercícios de complexidade.md",
+                "file": "Sistemas Operacionais/Definição-Objetivos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AEDS II/Unidade 01/Exercícios/Exercícios de complexidade.md",
+                "file": "Sistemas Operacionais/Definição-Objetivos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AEDS II/Unidade 01/Exercícios/Exercícios de complexidade.md",
+                "file": "Sistemas Operacionais/Definição-Objetivos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AEDS II/Unidade 01/Exercícios/Exercícios de complexidade.md"
+                "file": "Sistemas Operacionais/Definição-Objetivos.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c93f1b041fb68f7",
+  "active": "8b16c14201cefe1c",
   "lastOpenFiles": [
+    "AEDS II/Unidade 01/Exercícios/Exercícios de complexidade.md",
     "AEDS II/Unidade 01/Exercícios",
     "AEDS II/Unidade 01/Piso e Teto.md",
-    "AEDS II/Unidade 01/Exercícios/Exercícios de complexidade.md",
     "Introdução a Pesquisa/Pensamento Científico.md",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/UI.md",
     "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
     "Sistemas Operacionais/Componentes/Principais componentes do SO.md",
-    "Definição-Objetivos.md",
+    "Sistemas Operacionais/Definição-Objetivos.md",
     "Engenharia de Requisitos/Elicitação de Requisitos/Tipos.md",
     "Sistemas Operacionais/Estrutura base do SO/Software",
     "Sistemas Operacionais/Estrutura base do SO/Untitled.md",
