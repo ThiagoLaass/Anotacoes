@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Faculdade/Engenharia de Requisitos/Processos de software/Tipos de processos.md",
+                "file": "Obsidian/Faculdade/Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Faculdade/Engenharia de Requisitos/Processos de software/Tipos de processos.md",
+                "file": "Obsidian/Faculdade/Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Faculdade/Engenharia de Requisitos/Processos de software/Tipos de processos.md",
+                "file": "Obsidian/Faculdade/Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Faculdade/Engenharia de Requisitos/Processos de software/Tipos de processos.md"
+                "file": "Obsidian/Faculdade/Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md"
               }
             }
           }
@@ -147,12 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "401d553610ff3720",
+  "active": "b4d97385eede600c",
   "lastOpenFiles": [
+    "Obsidian/Faculdade/Sistemas Operacionais/Estrutura de Sisemas de Computação/UI.md",
+    "Obsidian/Faculdade/Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
+    "Obsidian/Faculdade/Engenharia de Requisitos/Processos de software/Tipos de processos.md",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 3 - Machine Learning/Orange Data Mining",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 3 - Machine Learning/Untitled.md",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 3 - Machine Learning/Fund. do Aprendizado de Maq",
-    "Obsidian/Faculdade/Engenharia de Requisitos/Processos de software/Tipos de processos.md",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 3 - Machine Learning",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 2 - Data Science/BIg Data/Estratégia de Dados de neg",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 2 - Data Science/BIg Data/Analytics",
@@ -161,7 +163,6 @@
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 2 - Data Science/Dados/Processo ETL",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 2 - Data Science/Dados/Estati. Desc e Med. Espalha",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 2 - Data Science/Dados/Tipos de Dados",
-    "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 2 - Data Science/Análise Visual de Dados",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 1 - Inteligencia Articial/Untitled.md",
     "Obsidian/Faculdade/Engenharia de Requisitos/Processos de software/Definição.md",
     "Obsidian/Faculdade/Engenharia de Requisitos/Processos de software/Modelagem de Processos/Princípios da Modelagem.md",
