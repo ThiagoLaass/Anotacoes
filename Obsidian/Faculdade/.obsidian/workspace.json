@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0e28b3ee3df509e7",
+        "id": "20df7de6e8bf50b4",
         "type": "tabs",
         "children": [
           {
-            "id": "8e48f23785b4e1df",
+            "id": "8b16c14201cefe1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
+                "file": "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
+                "file": "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
+                "file": "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md"
+                "file": "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md"
               }
             }
           }
@@ -146,22 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e48f23785b4e1df",
+  "active": "8c93f1b041fb68f7",
   "lastOpenFiles": [
-    "Sistemas Operacionais/Estrutura de Sisemas de Computação/UI.md",
-    "Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
+    "AEDS II/images/Pasted image 20240813220352.png",
+    "AEDS II/Unidade 01/Exercícios/Exercícios de complexidade.md",
     "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
+    "AEDS II/Unidade 01/Piso e Teto.md",
+    "Exercícios.md",
+    "AEDS II/Unidade 01/Exercícios/Untitled.md",
+    "Sistemas Operacionais/Definição-Objetivos.md",
+    "AEDS II/Unidade 01/Exercícios",
+    "Introdução a Pesquisa/Pensamento Científico.md",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/UI.md",
     "Sistemas Operacionais/Componentes/Principais componentes do SO.md",
-    "Definição-Objetivos.md",
     "Engenharia de Requisitos/Elicitação de Requisitos/Tipos.md",
     "Sistemas Operacionais/Estrutura base do SO/Software",
     "Sistemas Operacionais/Estrutura base do SO/Untitled.md",
     "Sistemas Operacionais/Estrutura base do SO/Hardware",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação",
-    "AEDS II/Unidade 01/Noções de Complexidade/Exercícios.md",
     "Engenharia de Requisitos/Problemas no desenvolvimento/Problemas de desenvolvimento.md",
     "Engenharia de Requisitos/Problemas no desenvolvimento/Importância da Analise do Projeto.md",
-    "Introdução a Pesquisa/Técnica e Ciência.md",
-    "Introdução a Pesquisa/Pensamento Científico.md"
+    "Introdução a Pesquisa/Técnica e Ciência.md"
   ]
 }
