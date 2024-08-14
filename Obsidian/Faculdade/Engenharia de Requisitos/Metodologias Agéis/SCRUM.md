@@ -39,3 +39,20 @@ Realiza a daily para garantir a comunicação do time, assim como explicar o que
 
 
 ### SCRUM Events
+
+#### Sprint Planning
+- É a etapa onde o time explicita o trabalho que será feito durante aquela Sprint, normalmente durando apenas algumas horas de reunião
+- O backlog do produto é definido durante a Sprint Planning 
+- É definido o porque daquela Sprint ser importância para os stakeholders
+- É definido como o trabalho será feito
+
+#### Daily
+- Reunião diária com o objetivo de comunicar o que cada um do time está desenvolvendo, o que irá desenvolver e o que está com impedimento
+- Na teoria o Scrum Master e o PO não participam da Daily a não ser que estejam trabalhando na backlog
+	- Na prática, ambos participam na Daily para um melhor contato com o time
+
+#### Sprint Review
+- É o momento onde o trabalho feito durante a sprint é validado
+- O PO e os Stakeholders revisam o estado atual do backlog do produto
+- Discute as próximas etapas
+- É discutido oportunidades de melhorias para o produto e o processo de desenvolvimento
