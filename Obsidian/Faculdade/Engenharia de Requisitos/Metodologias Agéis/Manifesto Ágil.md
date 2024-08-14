@@ -15,5 +15,6 @@ Trabalhar em conjunto
 Confiar e apoiar
 Conversas face a face
 Software funcionando
-Ambiente sustentavel
+Ambiente sustentável
+
 
