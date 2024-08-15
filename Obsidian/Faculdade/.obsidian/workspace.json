@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Requisitos/Metodologias Agéis/SCRUM.md",
+                "file": "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engenharia de Requisitos/Metodologias Agéis/SCRUM.md",
+                "file": "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engenharia de Requisitos/Metodologias Agéis/SCRUM.md",
+                "file": "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia de Requisitos/Metodologias Agéis/SCRUM.md"
+                "file": "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "a26ef7af8d36e8ff",
   "lastOpenFiles": [
-    "Engenharia de Requisitos/Metodologias Agéis/Manifesto Ágil.md",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Usuário.md",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/UI.md",
     "Engenharia de Requisitos/Metodologias Agéis/SCRUM.md",
+    "Engenharia de Requisitos/Metodologias Agéis/Manifesto Ágil.md",
     "Engenharia de Requisitos/Metodologias Agéis",
     "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
     "TI 3",
@@ -161,8 +166,6 @@
     "Sistemas Operacionais/Definição-Objetivos.md",
     "AEDS II/Unidade 01/Exercícios",
     "Introdução a Pesquisa/Pensamento Científico.md",
-    "Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
-    "Sistemas Operacionais/Estrutura de Sisemas de Computação/UI.md",
     "Sistemas Operacionais/Componentes/Principais componentes do SO.md",
     "Engenharia de Requisitos/Elicitação de Requisitos/Tipos.md",
     "Sistemas Operacionais/Estrutura base do SO/Software",
