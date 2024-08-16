@@ -1,34 +1,36 @@
 import java.util.*;
 
 class ContaOcorrencias {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        while(true) {
-            String string = scanner.nextLine();
-            int x = scanner.nextInt();
-
-            if(string.equals("FIM")){
-                System.exit(0);
+    
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            try {
+                do {
+                    String string = scanner.nextLine();
+                    String[] s = string.split(";");
+                    if (string.equals("FIM")) {
+                        System.exit(0);
+                    }
+                    int[] a = new int[s.length];
+                    for (int i = 0; i < s.length; i++) {
+                        a[i] = Integer.parseInt(s[i]);
+                    }
+                    int x = Integer.parseInt(scanner.nextLine());
+                    System.out.println(conta_ocorrencias(a, a.length, x, 0));
+                } while (true);
+            } finally {
+                scanner.close();
             }
-
-            String[] vetors = string.split(";");
-
-            int[] vetor = new int[vetors.length];
-            for (int i = 0; i < vetors.length; i++) {
-                vetor[i] = Integer.parseInt(vetors[i]);
+        }
+    
+        public static int conta_ocorrencias(int[] a, int n, int x, int i) {
+            if (i == n) {
+                return 0;
             }
-            int contador = contaOcorrencias(vetor, x, vetor.length - 1, 0);
-            System.out.println(contador);
+            if (a[i] == x) {
+                return 1 + conta_ocorrencias(a, n, x, i + 1);
+            }
+            return conta_ocorrencias(a, n, x, i + 1);
         }
-    }
 
-    public static int contaOcorrencias(int[] vetor, int x, int index, int contador){
-        if(index < 0){
-            return contador;
-        }
-        else if(vetor[index] == x){
-            return contaOcorrencias(vetor, x, index - 1, contador++);
-        }
-        return 0;
-    }
 }
