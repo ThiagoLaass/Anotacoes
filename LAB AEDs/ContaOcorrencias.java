@@ -3,8 +3,8 @@ import java.util.*;
 class ContaOcorrencias {
     
         public static void main(String[] args) {
-            Scanner scanner = new Scanner(System.in);
-            try {
+            
+            try(Scanner scanner = new Scanner(System.in)) {
                 do {
                     String string = scanner.nextLine();
                     String[] s = string.split(";");
@@ -19,7 +19,6 @@ class ContaOcorrencias {
                     System.out.println(conta_ocorrencias(a, a.length, x, 0));
                 } while (true);
             } finally {
-                scanner.close();
             }
         }
     
