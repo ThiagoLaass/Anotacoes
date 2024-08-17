@@ -56,3 +56,38 @@ Realiza a daily para garantir a comunicação do time, assim como explicar o que
 - O PO e os Stakeholders revisam o estado atual do backlog do produto
 - Discute as próximas etapas
 - É discutido oportunidades de melhorias para o produto e o processo de desenvolvimento
+
+### SCRUM Artifacts
+
+#### Product Backlog
+- Contem todos os itens que serão necessários para desenvolver o produto 
+	- Funcionalidades, melhorias, correções, etc
+- É mantido pelo PO
+- É atualizada continuamente
+
+#### Sprint Backlog
+- Itens priorizados que foram selecionados para aquela Sprint
+- Meta da Sprint
+- Utilizado para o Burndown Chart
+- É revisada diariamente durante a daily
+
+#### Incremento
+- Partes do software que estão sendo desenvolvidas dentro das sprints
+
+#### Agile Radiator
+- É um dashboard que auxilia o time no acompanhamento das atividades
+- Monitora o andamento do projeto
+- Conjunto de indicadores que auxilia o time
+
+#### Grafico Burn down
+- Grafico que simboliza a quantidade de tempo que o número de tarefas esta tomando
+- Calculo de tempo total na tarefas
+
+#### Impedimentos
+- Qualquer problema , bloqueio ou obstáculo que atrapalhe ou impeça o time de desenvolvimento de realizar seu trabalho
+- Pode ser associados com o grafico burndown
+- O Scrum Master pode remover impedimentos
+
+
+
+

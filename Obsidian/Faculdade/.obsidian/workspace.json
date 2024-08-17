@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md",
+                "file": "Introdução a Pesquisa/Pensamento Científico.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md",
+                "file": "Introdução a Pesquisa/Pensamento Científico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md",
+                "file": "Introdução a Pesquisa/Pensamento Científico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md"
+                "file": "Introdução a Pesquisa/Pensamento Científico.md"
               }
             }
           }
@@ -148,12 +148,19 @@
   },
   "active": "a26ef7af8d36e8ff",
   "lastOpenFiles": [
-    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Usuário.md",
+    "Engenharia de Requisitos/Requistos/Definição.md",
+    "Engenharia de Requisitos/Requistos/Tipos de Requisitos.md",
+    "Engenharia de Requisitos/Metodologias Agéis/SCRUM.md",
+    "Engenharia de Requisitos/Processos de software/Tipos de processos.md",
+    "Engenharia de Requisitos/Requistos/Classificação de Requisitos.md",
+    "Engenharia de Requisitos/Processos de software/Definição.md",
+    "Engenharia de Requisitos/Processos de software/Modelagem de Processos/Princípios da Modelagem.md",
+    "Engenharia de Requisitos/Processos de software/Modelagem de Processos/Objetivo da modelagem.md",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Usuário.md",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/UI.md",
-    "Engenharia de Requisitos/Metodologias Agéis/SCRUM.md",
     "Engenharia de Requisitos/Metodologias Agéis/Manifesto Ágil.md",
     "Engenharia de Requisitos/Metodologias Agéis",
     "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
