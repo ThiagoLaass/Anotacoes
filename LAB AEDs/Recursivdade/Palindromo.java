@@ -1,10 +1,10 @@
+package Recursivdade;
 import java.util.*;
 
 class Palindromo {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        try {
+        try(Scanner scanner = new Scanner(System.in)) {
             do {
                 String string = scanner.nextLine();
                 String[] s = string.split("");
@@ -18,7 +18,6 @@ class Palindromo {
                 }
             } while (true);
         } finally {
-            scanner.close();
         }
     }
 
