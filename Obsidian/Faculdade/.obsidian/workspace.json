@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b3bc1b91343328c",
+        "id": "f0cf26c514e7771e",
         "type": "tabs",
         "children": [
           {
-            "id": "a26ef7af8d36e8ff",
+            "id": "60ca51c1b4b75ff0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AEDS II/Unidade 01/Somatórios.md",
+                "file": "TI 3/Coisas a fazer do TI 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AEDS II/Unidade 01/Somatórios.md",
+                "file": "TI 3/Coisas a fazer do TI 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AEDS II/Unidade 01/Somatórios.md",
+                "file": "TI 3/Coisas a fazer do TI 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AEDS II/Unidade 01/Somatórios.md"
+                "file": "TI 3/Coisas a fazer do TI 3.md"
               }
             }
           }
@@ -146,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a26ef7af8d36e8ff",
+  "active": "60ca51c1b4b75ff0",
   "lastOpenFiles": [
-    "Pasted image 20240820220200.png",
+    "TI 3/Coisas a fazer do TI 3.md",
+    "Sistemas Operacionais/Definição-Objetivos.md",
+    "AEDS II/images/Pasted image 20240820220200.png",
+    "AEDS II/Unidade 01/Somatórios.md",
     "AEDS II/images/Pasted image 20240820213159.png",
     "AEDS II/images/Pasted image 20240820192238.png",
-    "AEDS II/Unidade 01/Somatórios.md",
     "AEDS II/Unidade 01/Ordenação por seleção.md",
     "Sistemas Operacionais/Máquinas Virtuais/Definição de máquinas virtuais.md",
     "Sistemas Operacionais/Máquinas Virtuais",
@@ -166,7 +168,6 @@
     "AEDS II/Unidade 01/Exercícios/Exercícios de complexidade.md",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Usuário.md",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md",
-    "Sistemas Operacionais/Definição-Objetivos.md",
     "Introdução a Pesquisa/Pensamento Científico.md",
     "Engenharia de Requisitos/Requistos/Definição.md",
     "Engenharia de Requisitos/Requistos/Tipos de Requisitos.md",
@@ -181,7 +182,6 @@
     "Engenharia de Requisitos/Metodologias Agéis",
     "TI 3",
     "AEDS II/images/Pasted image 20240813220352.png",
-    "AEDS II/Unidade 01/Piso e Teto.md",
     "AEDS II/Unidade 01/Exercícios",
     "Sistemas Operacionais/Estrutura base do SO/Software",
     "Sistemas Operacionais/Estrutura base do SO/Hardware",
