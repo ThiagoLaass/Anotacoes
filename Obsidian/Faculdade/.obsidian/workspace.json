@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operacionais/Máquinas Virtuais/Definição de máquinas virtuais.md",
+                "file": "AEDS II/Unidade 01/Somatórios.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operacionais/Máquinas Virtuais/Definição de máquinas virtuais.md",
+                "file": "AEDS II/Unidade 01/Somatórios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operacionais/Máquinas Virtuais/Definição de máquinas virtuais.md",
+                "file": "AEDS II/Unidade 01/Somatórios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operacionais/Máquinas Virtuais/Definição de máquinas virtuais.md"
+                "file": "AEDS II/Unidade 01/Somatórios.md"
               }
             }
           }
@@ -148,9 +148,14 @@
   },
   "active": "a26ef7af8d36e8ff",
   "lastOpenFiles": [
+    "Pasted image 20240820220200.png",
+    "AEDS II/images/Pasted image 20240820213159.png",
+    "AEDS II/images/Pasted image 20240820192238.png",
+    "AEDS II/Unidade 01/Somatórios.md",
+    "AEDS II/Unidade 01/Ordenação por seleção.md",
+    "Sistemas Operacionais/Máquinas Virtuais/Definição de máquinas virtuais.md",
     "Sistemas Operacionais/Máquinas Virtuais",
     "Sistemas Operacionais/Componentes/Principais componentes do SO.md",
-    "Sistemas Operacionais/Máquinas Virtuais/Definição de máquinas virtuais.md",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura Microkernel.md",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura de camadas.md",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura simples.md",
@@ -177,8 +182,6 @@
     "TI 3",
     "AEDS II/images/Pasted image 20240813220352.png",
     "AEDS II/Unidade 01/Piso e Teto.md",
-    "Exercícios.md",
-    "AEDS II/Unidade 01/Exercícios/Untitled.md",
     "AEDS II/Unidade 01/Exercícios",
     "Sistemas Operacionais/Estrutura base do SO/Software",
     "Sistemas Operacionais/Estrutura base do SO/Hardware",
