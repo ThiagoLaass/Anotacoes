@@ -33,13 +33,10 @@
 	- Restrições de desempenho, segurança e implementação
 
 ---
-
 **Responsabilidades:**
 1. Profissional responsável por interagir com os stakeholders para a realização e elicitação correta dos requisitos.
 2. Scrum master, Product Owner, Product Manager, Engenheiro de software, Testador de Software, Analista de Requisitos, Analista de negócios.
 ---
-
-
 ### Diferentes participantes do projeto
 
 #### Usuários
@@ -56,4 +53,4 @@
 
 ### Dificuldades no levantamento de requisitos
 
-Clientes nem sempre sabem o que querem e como querem
+- Clientes nem sempre sabem o que querem e como querem
