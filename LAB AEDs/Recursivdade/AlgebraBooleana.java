@@ -1,3 +1,4 @@
+package Recursivdade;
 import java.util.Scanner;
 
 public class AlgebraBooleana {

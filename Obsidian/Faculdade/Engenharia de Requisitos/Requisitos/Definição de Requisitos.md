@@ -1,7 +1,6 @@
 - Definição completa das funcionalidades do sistema, evitando ambiguidades e reduzindo falsas interpretações de funcionalidades. 
 - Evita que o software tenha funcionalidades "inúteis", ou incompletas.
 - Contrato do que o software precisa ter como funcionalidade
-
 ### Características de um requisito
 - Completo
 	- Descreve completamente a funcionalidade

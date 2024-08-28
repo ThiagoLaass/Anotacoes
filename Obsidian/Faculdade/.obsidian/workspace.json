@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b3bc1b91343328c",
+        "id": "f0cf26c514e7771e",
         "type": "tabs",
         "children": [
           {
-            "id": "a26ef7af8d36e8ff",
+            "id": "60ca51c1b4b75ff0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introdução a Pesquisa/Pensamento Científico.md",
+                "file": "AEDS II/Unidade 01/Somatórios.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introdução a Pesquisa/Pensamento Científico.md",
+                "file": "AEDS II/Unidade 01/Somatórios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introdução a Pesquisa/Pensamento Científico.md",
+                "file": "AEDS II/Unidade 01/Somatórios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introdução a Pesquisa/Pensamento Científico.md"
+                "file": "AEDS II/Unidade 01/Somatórios.md"
               }
             }
           }
@@ -146,41 +146,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a26ef7af8d36e8ff",
+  "active": "8c93f1b041fb68f7",
   "lastOpenFiles": [
-    "Engenharia de Requisitos/Requistos/Definição.md",
-    "Engenharia de Requisitos/Requistos/Tipos de Requisitos.md",
-    "Engenharia de Requisitos/Metodologias Agéis/SCRUM.md",
-    "Engenharia de Requisitos/Processos de software/Tipos de processos.md",
-    "Engenharia de Requisitos/Requistos/Classificação de Requisitos.md",
-    "Engenharia de Requisitos/Processos de software/Definição.md",
-    "Engenharia de Requisitos/Processos de software/Modelagem de Processos/Princípios da Modelagem.md",
-    "Engenharia de Requisitos/Processos de software/Modelagem de Processos/Objetivo da modelagem.md",
-    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md",
-    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Usuário.md",
-    "Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
-    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços",
-    "Sistemas Operacionais/Estrutura de Sisemas de Computação/UI.md",
-    "Engenharia de Requisitos/Metodologias Agéis/Manifesto Ágil.md",
-    "Engenharia de Requisitos/Metodologias Agéis",
+    "AEDS II/images/Pasted image 20240822220411.png",
+    "AEDS II/images/Pasted image 20240822215934.png",
+    "AEDS II/images/Pasted image 20240822215813.png",
+    "AEDS II/images/Pasted image 20240822215653.png",
+    "AEDS II/images/Pasted image 20240822214026.png",
+    "AEDS II/images/Pasted image 20240822212817.png",
+    "AEDS II/Unidade 01/Ordenação por seleção.md",
+    "Introdução aos sistemas inteligentes/Unidade 01 - IA/Aplicações de IA.md",
+    "Introdução aos sistemas inteligentes/Unidade 01 - IA/Definição e conceitos de IA.md",
+    "Introdução aos sistemas inteligentes/Unidade 01 - IA",
+    "Sistemas Operacionais/Processo/Conceito de Processo.md",
+    "Introdução aos sistemas inteligentes",
+    "Sistemas Operacionais/Processo/Escalonamento de Processos.md",
+    "Engenharia de Requisitos/Requisitos/Definição.md",
+    "Sistemas Operacionais/Processo",
+    "TI 3/Coisas a fazer do TI 3.md",
+    "Engenharia de Requisitos/Requisitos/Tipos de Requisitos.md",
+    "Engenharia de Requisitos/Requisitos/Classificação de Requisitos.md",
+    "Engenharia de Requisitos/Requisitos/Elicitação de Requisitos/Tipos.md",
+    "Sistemas Operacionais/Máquinas Virtuais/Definição de máquinas virtuais.md",
     "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
+    "Sistemas Operacionais/Definição-Objetivos.md",
+    "AEDS II/images/Pasted image 20240820220200.png",
+    "AEDS II/Unidade 01/Somatórios.md",
+    "AEDS II/images/Pasted image 20240820213159.png",
+    "AEDS II/images/Pasted image 20240820192238.png",
+    "Sistemas Operacionais/Máquinas Virtuais",
+    "Sistemas Operacionais/Componentes/Principais componentes do SO.md",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura Microkernel.md",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura de camadas.md",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura simples.md",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/UI.md",
+    "AEDS II/Unidade 01/Exercícios/Exercícios de complexidade.md",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Usuário.md",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md",
+    "Introdução a Pesquisa/Pensamento Científico.md",
+    "Engenharia de Requisitos/Metodologias Agéis/SCRUM.md",
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços",
+    "Engenharia de Requisitos/Metodologias Agéis",
     "TI 3",
     "AEDS II/images/Pasted image 20240813220352.png",
-    "AEDS II/Unidade 01/Exercícios/Exercícios de complexidade.md",
-    "AEDS II/Unidade 01/Piso e Teto.md",
-    "Exercícios.md",
-    "AEDS II/Unidade 01/Exercícios/Untitled.md",
-    "Sistemas Operacionais/Definição-Objetivos.md",
     "AEDS II/Unidade 01/Exercícios",
-    "Introdução a Pesquisa/Pensamento Científico.md",
-    "Sistemas Operacionais/Componentes/Principais componentes do SO.md",
-    "Engenharia de Requisitos/Elicitação de Requisitos/Tipos.md",
-    "Sistemas Operacionais/Estrutura base do SO/Software",
-    "Sistemas Operacionais/Estrutura base do SO/Untitled.md",
-    "Sistemas Operacionais/Estrutura base do SO/Hardware",
-    "Sistemas Operacionais/Estrutura de Sisemas de Computação",
-    "Engenharia de Requisitos/Problemas no desenvolvimento/Problemas de desenvolvimento.md",
-    "Engenharia de Requisitos/Problemas no desenvolvimento/Importância da Analise do Projeto.md",
-    "Introdução a Pesquisa/Técnica e Ciência.md"
+    "Sistemas Operacionais/Estrutura base do SO/Software"
   ]
 }
