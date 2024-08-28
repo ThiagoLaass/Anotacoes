@@ -1,7 +1,6 @@
 ### Notação do somatório
 
 ![[Pasted image 20240820213159.png]]
-
 - A exemplo de código, o somatório pode ocorrer em laços de repetição, em um for que vai ate **i < n**, o índice final será **n - 1**, **visto que i não assume o valor de n.**
 - Neste caso, m ou índice inicial, será o valor que i é inicializado dentro do for
 
@@ -32,3 +31,15 @@ Resposta: 0 + 0 + 6 + 12 + 12 + 0  = 30
 			- ![[Pasted image 20240822215934.png]]
 				- Podemos dividir por 2, neste caso S = a função dividida por 2
 					- ![[Pasted image 20240822220411.png]]
+
+### Propriedades de somatórios
+
+#### Combinando conjuntos
+- Como existe uma união, faremos a soma dos elementos que se repetem em diferentes conjuntos apenas uma vez.
+
+#### Base para perturbação da soma
+- Soma
+
+### Fórmula
+- As fórmulas estão listadas no slide "Somatórios" no canvas
+
