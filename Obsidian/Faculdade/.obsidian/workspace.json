@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "542f8286136eb8b2",
+        "id": "cdf9072d565a6e15",
         "type": "tabs",
         "children": [
           {
-            "id": "2829c0b27d4d2917",
+            "id": "002bf734e8ba4d80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas Operacionais/Processos e Threads/Threads.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operacionais/Processos e Threads/Threads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operacionais/Processos e Threads/Threads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sistemas Operacionais/Processos e Threads/Threads.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,17 +138,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2829c0b27d4d2917",
+  "active": "002bf734e8ba4d80",
   "lastOpenFiles": [
+    "AEDS II/Unidade 01/Somatórios.md",
+    "AEDS II/images/Pasted image 20240827211144.png",
+    "Sistemas Operacionais/Processos e Threads/Threads.md",
     "AEDS II/Unidade 01/Exercícios/Exercícios de complexidade.md",
     "AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
-    "Sistemas Operacionais/Processos e Threads/Threads.md",
     "Cultura Religiosa/Exercício 26-08.md",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md",
     "Cultura Religiosa/Exercício 26-08.pdf",
     "Introdução a Pesquisa/Artigo científico.md",
     "Cultura Religiosa",
-    "AEDS II/Unidade 01/Somatórios.md",
     "AEDS II/images/Pasted image 20240822220411.png",
     "AEDS II/images/Pasted image 20240822215934.png",
     "AEDS II/images/Pasted image 20240822215813.png",
@@ -189,10 +182,8 @@
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/UI.md",
-    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Usuário.md",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços",
     "Engenharia de Requisitos/Metodologias Agéis",
-    "TI 3",
-    "AEDS II/images/Pasted image 20240813220352.png"
+    "TI 3"
   ]
 }
