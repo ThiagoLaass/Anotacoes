@@ -1,29 +1,31 @@
 package TempoEx;
 
 public class Main {
-    static int opRealizadas;
+    static Long opRealizadas = 0L;
     static Long timeLimit = 50000000000L;
 
     public static void main(String[] args) {
-        int[] vetor = new int[31250];
+        int[] vetor = new int[250000];
 
         long startTime = System.nanoTime();
         codigoA(vetor.length);
         long endTime = System.nanoTime();
 
         if (!ultrapassou(startTime, endTime)) {
-            System.out.println("Tempo de execucao em nanosegundos: " + (endTime - startTime) + "\n"
+            System.out.println("Tempo de execucao em nanosegundos da funcao codigoA(): " 
+                    + (endTime - startTime) + "\n"
                     + opRealizadas + " Operacoes Realizadas");
         } else
             System.out.println("Tempo expirado");
 
-        opRealizadas = 0;
+        opRealizadas = 0L;
         startTime = System.nanoTime();
         codigoB(vetor);
         endTime = System.nanoTime();
 
         if (!ultrapassou(startTime, endTime)) {
-            System.out.println("Tempo de execucao em nanosegundos: " + (endTime - startTime) + "\n"
+            System.out.println("\nTempo de execucao em nanosegundos da funcao codigoB(): " 
+                    + (endTime - startTime) + "\n"
                     + opRealizadas + " Operacoes Realizadas");
         } else
             System.out.println("Tempo expirado");
