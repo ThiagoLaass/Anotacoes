@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cdf9072d565a6e15",
+        "id": "d3f77aebcc4b99f3",
         "type": "tabs",
         "children": [
           {
-            "id": "002bf734e8ba4d80",
+            "id": "9fec3af0aa008fb7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AEDS II/Unidade 01/Somatórios.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AEDS II/Unidade 01/Somatórios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AEDS II/Unidade 01/Somatórios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AEDS II/Unidade 01/Somatórios.md"
+              }
             }
           }
         ]
@@ -138,9 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "002bf734e8ba4d80",
+  "active": "9fec3af0aa008fb7",
   "lastOpenFiles": [
+    "Sistemas Operacionais/Processos e Threads/Escalonamento de Processos.md",
+    "Sistemas Operacionais/images/Pasted image 20240828214418.png",
+    "Sistemas Operacionais/images",
+    "Sistemas Operacionais/images/Pasted image 20240828214120.png",
+    "Engenharia de Requisitos/Requisitos/Elicitação de Requisitos/Técnicas de elicitação de requisitos.md",
+    "Engenharia de Requisitos/Requisitos/Definição.md",
+    "Engenharia de Requisitos/Requisitos/Tipos de Requisitos.md",
+    "Engenharia de Requisitos/Requisitos/Elicitação de Requisitos/Tipos.md",
+    "Engenharia de Requisitos/Requisitos/Classificação de Requisitos.md",
     "AEDS II/Unidade 01/Somatórios.md",
+    "AEDS II/Unidade 01/Piso e Teto.md",
+    "AEDS II/Unidade 01/Noções de Complexidade/Comportamento assintótico.md",
     "AEDS II/images/Pasted image 20240827211144.png",
     "Sistemas Operacionais/Processos e Threads/Threads.md",
     "AEDS II/Unidade 01/Exercícios/Exercícios de complexidade.md",
@@ -162,28 +181,17 @@
     "Introdução aos sistemas inteligentes/Unidade 01 - IA",
     "Sistemas Operacionais/Processos e Threads/Conceito de Processo.md",
     "Introdução aos sistemas inteligentes",
-    "Sistemas Operacionais/Processos e Threads/Escalonamento de Processos.md",
-    "Engenharia de Requisitos/Requisitos/Definição.md",
     "Sistemas Operacionais/Processos e Threads",
     "TI 3/Coisas a fazer do TI 3.md",
-    "Engenharia de Requisitos/Requisitos/Tipos de Requisitos.md",
-    "Engenharia de Requisitos/Requisitos/Classificação de Requisitos.md",
-    "Engenharia de Requisitos/Requisitos/Elicitação de Requisitos/Tipos.md",
     "Sistemas Operacionais/Máquinas Virtuais/Definição de máquinas virtuais.md",
     "Sistemas Operacionais/Definição-Objetivos.md",
     "AEDS II/images/Pasted image 20240820220200.png",
-    "AEDS II/images/Pasted image 20240820213159.png",
-    "AEDS II/images/Pasted image 20240820192238.png",
     "Sistemas Operacionais/Máquinas Virtuais",
     "Sistemas Operacionais/Componentes/Principais componentes do SO.md",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura Microkernel.md",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura de camadas.md",
-    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura simples.md",
-    "Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas",
-    "Sistemas Operacionais/Estrutura de Sisemas de Computação/UI.md",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços",
-    "Engenharia de Requisitos/Metodologias Agéis",
-    "TI 3"
+    "Engenharia de Requisitos/Metodologias Agéis"
   ]
 }

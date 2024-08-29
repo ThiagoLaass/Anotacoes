@@ -1,0 +1,24 @@
+
+### Principais técnicas
+- **Entrevista**
+	- Conversa direta do analista com o entrevistado
+	- É a forma mais comum de levantamento de requisitos
+	- Objetivo
+		- O objetivo principal da entrevista é entender o domínio da aplicação
+		- Os processos de negócio
+		- Determinado assunto ou problema
+	- Planejamento
+		- É importante planejar a entrevista para obter um melhor resultado
+			- Definir quem entrevistar
+			- Definir seu escopo
+				- E informa-lo ao entrevistado
+			- Objetivos
+			- Separar perguntas antecipadamente
+			- Definir o perfil para o entrevistado
+- **Brainstorming**
+	- Varias pessoas da área de negócios que se juntam para discutir 
+- **Questionário**
+- **Protótipo**
+- **Etnografia**
+- **Estudo de documentos**
+- **JAD (Joint Application Design)**
