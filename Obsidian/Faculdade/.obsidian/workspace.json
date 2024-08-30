@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AEDS II/Unidade 01/Somatórios.md",
+                "file": "AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AEDS II/Unidade 01/Somatórios.md",
+                "file": "AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AEDS II/Unidade 01/Somatórios.md",
+                "file": "AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AEDS II/Unidade 01/Somatórios.md"
+                "file": "AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md"
               }
             }
           }
@@ -148,6 +148,13 @@
   },
   "active": "9fec3af0aa008fb7",
   "lastOpenFiles": [
+    "Pasted image 20240829220823.png",
+    "Pasted image 20240829220412.png",
+    "AEDS II/images/Pasted image 20240829220225.png",
+    "AEDS II/images/Pasted image 20240829213809.png",
+    "AEDS II/images/Pasted image 20240829212321.png",
+    "AEDS II/Unidade 01/Somatórios.md",
+    "AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
     "TI 3/Reunião 26-08.md",
     "Engenharia de Requisitos/Requisitos/Definição de Requisitos.md",
     "Sistemas Operacionais/Processos e Threads/Escalonamento de Processos.md",
@@ -159,7 +166,6 @@
     "Engenharia de Requisitos/Requisitos/Tipos de Requisitos.md",
     "Engenharia de Requisitos/Requisitos/Elicitação de Requisitos/Tipos.md",
     "Engenharia de Requisitos/Requisitos/Classificação de Requisitos.md",
-    "AEDS II/Unidade 01/Somatórios.md",
     "AEDS II/Unidade 01/Piso e Teto.md",
     "AEDS II/Unidade 01/Noções de Complexidade/Comportamento assintótico.md",
     "AEDS II/images/Pasted image 20240827211144.png",
@@ -174,9 +180,6 @@
     "AEDS II/images/Pasted image 20240822220411.png",
     "AEDS II/images/Pasted image 20240822215934.png",
     "AEDS II/images/Pasted image 20240822215813.png",
-    "AEDS II/images/Pasted image 20240822215653.png",
-    "AEDS II/images/Pasted image 20240822214026.png",
-    "AEDS II/images/Pasted image 20240822212817.png",
     "AEDS II/Unidade 01/Ordenação por seleção.md",
     "Introdução aos sistemas inteligentes/Unidade 01 - IA/Aplicações de IA.md",
     "Introdução aos sistemas inteligentes/Unidade 01 - IA/Definição e conceitos de IA.md",
@@ -187,10 +190,7 @@
     "TI 3/Coisas a fazer do TI 3.md",
     "Sistemas Operacionais/Máquinas Virtuais/Definição de máquinas virtuais.md",
     "Sistemas Operacionais/Definição-Objetivos.md",
-    "AEDS II/images/Pasted image 20240820220200.png",
     "Sistemas Operacionais/Máquinas Virtuais",
-    "Sistemas Operacionais/Componentes/Principais componentes do SO.md",
-    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura Microkernel.md",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços",
     "Engenharia de Requisitos/Metodologias Agéis"

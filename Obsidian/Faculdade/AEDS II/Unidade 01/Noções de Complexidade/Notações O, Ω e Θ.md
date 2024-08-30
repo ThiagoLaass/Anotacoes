@@ -1,0 +1,50 @@
+
+### Notações
+- É considerado apenas a maior potencia de n
+- O é o limite superior
+- Ω é o limite inferior
+- Θ é o limite justo
+### Notação O
+- Limite assintótico superior
+	- Se uma função é $O(n^2)$ ela também é limitada assintoticamente para funções de graus maiores
+		- Função é obtida a partir de uma análise de algoritmo
+- Se um algoritmo é $O(n^2)$, ele também é O de qualquer coisa maior que n
+	- Limite assintoticamente justo
+- Define, para o pior caso, o limite superior do tempo de execução de um algoritmo
+- f(n) limita g(n) por cima
+	- g(n) pode chegar ao valor de g(n) mas nunca ultrapassa-la
+- ![[Pasted image 20240829212321.png]]
+	- Temos que achar as constantes **c** e **m** (m é o valor que f(n) passa a ser maior que g(n))
+		- A constante c é a constante que multiplica $n^3$, para ser igual ou maior ao valor de $n^2 + n + log(n)$, que é g(n)$$
+c.n^3
+$$
+		- ![[Pasted image 20240829213809.png]]
+		- Para acharmos o valor de c, é a constante que multiplica n que torna ela maior ou igual a g(x), pode ser qualquer valor que torne a inequação abaixo verdadeira$$
+					g(n) ≥ c.f(n) 
+		$$
+	- Quando o valor de f(n) é uma constante, a complexidade é $O(1)$ ou qualquer valor acima dele
+#### Exemplo de exercício
+Prove que $2^n+1 = O(2^n)$
+$2^n+1 = 2^n.2^1$, neste caso teremos $2^n$ em ambos os lados, então podemos cancelar este termo. Então a constante é ≥ 2 
+##### Dica
+Quando o lado de g(n) da inequação está em função de n, é impossível achar o valor de c
+
+### Notação Ω
+- Se uma função é $Ω(n^2)$, ela será limitada por função de graus inferiores
+- g(n) cresce tão lentamente quanto f(n)
+	- f(n) limita g(n) por baixo
+- Ou seja, em O queremos os valores máximos, em Ω queremos os valores mínimos
+- ![[Pasted image 20240829220225.png]]
+	- O sinal da inequação é invertido, uma vez que buscamos valores mínimos
+	- 
+#### Exemplo de exercícios
+Prove que $n^2 + 10 = Ω(n^2)$
+A resposta é simplesmente uma constante que multiplicada a f(n) não ultrapasse o valor de g(n)
+![[Pasted image 20240829220823.png]]
+
+
+
+#### Quando n tende a ∞
+
+### Notação Θ
+
