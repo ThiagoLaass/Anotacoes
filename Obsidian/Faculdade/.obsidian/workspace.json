@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
+                "file": "Engenharia de Requisitos/Requisitos/Histórias de usuário.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
+                "file": "Engenharia de Requisitos/Requisitos/Histórias de usuário.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
+                "file": "Engenharia de Requisitos/Requisitos/Histórias de usuário.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md"
+                "file": "Engenharia de Requisitos/Requisitos/Histórias de usuário.md"
               }
             }
           }
@@ -148,13 +148,18 @@
   },
   "active": "9fec3af0aa008fb7",
   "lastOpenFiles": [
-    "Pasted image 20240829220823.png",
-    "Pasted image 20240829220412.png",
+    "Engenharia de Requisitos/Processos de software/Tipos de processos.md",
+    "Engenharia de Requisitos/Requisitos/Histórias de usuário.md",
+    "Engenharia de Requisitos/Processos de software/Definição.md",
+    "Engenharia de Requisitos/Processos de software/Modelagem de Processos/Princípios da Modelagem.md",
+    "Engenharia de Requisitos/Processos de software/Modelagem de Processos/Objetivo da modelagem.md",
+    "AEDS II/images/Pasted image 20240829220412.png",
+    "AEDS II/images/Pasted image 20240829220823.png",
+    "AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
     "AEDS II/images/Pasted image 20240829220225.png",
     "AEDS II/images/Pasted image 20240829213809.png",
     "AEDS II/images/Pasted image 20240829212321.png",
     "AEDS II/Unidade 01/Somatórios.md",
-    "AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
     "TI 3/Reunião 26-08.md",
     "Engenharia de Requisitos/Requisitos/Definição de Requisitos.md",
     "Sistemas Operacionais/Processos e Threads/Escalonamento de Processos.md",
@@ -179,17 +184,12 @@
     "Cultura Religiosa",
     "AEDS II/images/Pasted image 20240822220411.png",
     "AEDS II/images/Pasted image 20240822215934.png",
-    "AEDS II/images/Pasted image 20240822215813.png",
     "AEDS II/Unidade 01/Ordenação por seleção.md",
     "Introdução aos sistemas inteligentes/Unidade 01 - IA/Aplicações de IA.md",
     "Introdução aos sistemas inteligentes/Unidade 01 - IA/Definição e conceitos de IA.md",
     "Introdução aos sistemas inteligentes/Unidade 01 - IA",
-    "Sistemas Operacionais/Processos e Threads/Conceito de Processo.md",
     "Introdução aos sistemas inteligentes",
     "Sistemas Operacionais/Processos e Threads",
-    "TI 3/Coisas a fazer do TI 3.md",
-    "Sistemas Operacionais/Máquinas Virtuais/Definição de máquinas virtuais.md",
-    "Sistemas Operacionais/Definição-Objetivos.md",
     "Sistemas Operacionais/Máquinas Virtuais",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços",
