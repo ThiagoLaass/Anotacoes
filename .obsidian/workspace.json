@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Faculdade/TI 3/Reunião 26-08.md",
+                "file": "Grade Inteligente - AES/Commit pattern/Conventional commits.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Faculdade/TI 3/Reunião 26-08.md",
+                "file": "Grade Inteligente - AES/Commit pattern/Conventional commits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Faculdade/TI 3/Reunião 26-08.md",
+                "file": "Grade Inteligente - AES/Commit pattern/Conventional commits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Faculdade/TI 3/Reunião 26-08.md"
+                "file": "Grade Inteligente - AES/Commit pattern/Conventional commits.md"
               }
             }
           }
@@ -149,9 +149,13 @@
   },
   "active": "b4d97385eede600c",
   "lastOpenFiles": [
-    "Obsidian/Faculdade/TI 3/Coisas a fazer do TI 3.md",
+    "Grade Inteligente - AES/Untitled.md",
+    "Grade Inteligente - AES/Commit pattern/Conventional commits.md",
+    "Grade Inteligente - AES/Commit pattern",
     "Obsidian/Faculdade/AEDS II/Exercício lab AEDs.md",
+    "Grade Inteligente - AES",
     "Obsidian/Faculdade/TI 3/Reunião 26-08.md",
+    "Obsidian/Faculdade/TI 3/Coisas a fazer do TI 3.md",
     "Obsidian/Faculdade/Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Usuário.md",
     "Obsidian/Faculdade/Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md",
     "Obsidian/Faculdade/Sistemas Operacionais/Estrutura de Sisemas de Computação/Objetui",
@@ -170,8 +174,6 @@
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 2 - Data Science/BIg Data/Analytics",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 2 - Data Science/BIg Data/Big Data",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 2 - Data Science/Dados/Preparação de dados",
-    "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 2 - Data Science/Dados/Processo ETL",
-    "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 2 - Data Science/Dados/Estati. Desc e Med. Espalha",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 1 - Inteligencia Articial/Untitled.md",
     "Obsidian/Faculdade/Engenharia de Requisitos/Processos de software/Modelagem de Processos/Princípios da Modelagem.md",
     "Obsidian/Faculdade/Engenharia de Requisitos/Processos de software/Modelagem de Processos/Objetivo da modelagem.md",
@@ -187,8 +189,6 @@
     "Pasted image 20240810230250.png",
     "Pasted image 20240810230304.png",
     "Pasted image 20240810230251.png",
-    "[Técnica e Ciência.md",
-    "Obsidian/Faculdade/Engenharia de Requisitos/Problemas no desenvolvimento/Importância da Analise do Projeto.md",
-    "Obsidian/Faculdade/Engenharia de Requisitos/Problemas no desenvolvimento/Problemas de desenvolvimento.md"
+    "[Técnica e Ciência.md"
   ]
 }
