@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engenharia de Requisitos/Requisitos/Histórias de usuário.md",
+                "file": "Sistemas Operacionais/Processos e Threads/Escalonamento de Processos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Engenharia de Requisitos/Requisitos/Histórias de usuário.md",
+                "file": "Sistemas Operacionais/Processos e Threads/Escalonamento de Processos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Engenharia de Requisitos/Requisitos/Histórias de usuário.md",
+                "file": "Sistemas Operacionais/Processos e Threads/Escalonamento de Processos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Engenharia de Requisitos/Requisitos/Histórias de usuário.md"
+                "file": "Sistemas Operacionais/Processos e Threads/Escalonamento de Processos.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "9fec3af0aa008fb7",
   "lastOpenFiles": [
-    "Engenharia de Requisitos/Processos de software/Tipos de processos.md",
+    "Sistemas Operacionais/images/Pasted image 20240902211817.png",
     "Engenharia de Requisitos/Requisitos/Histórias de usuário.md",
+    "Engenharia de Requisitos/Processos de software/Tipos de processos.md",
     "Engenharia de Requisitos/Processos de software/Definição.md",
     "Engenharia de Requisitos/Processos de software/Modelagem de Processos/Princípios da Modelagem.md",
     "Engenharia de Requisitos/Processos de software/Modelagem de Processos/Objetivo da modelagem.md",
@@ -186,7 +187,6 @@
     "AEDS II/images/Pasted image 20240822215934.png",
     "AEDS II/Unidade 01/Ordenação por seleção.md",
     "Introdução aos sistemas inteligentes/Unidade 01 - IA/Aplicações de IA.md",
-    "Introdução aos sistemas inteligentes/Unidade 01 - IA/Definição e conceitos de IA.md",
     "Introdução aos sistemas inteligentes/Unidade 01 - IA",
     "Introdução aos sistemas inteligentes",
     "Sistemas Operacionais/Processos e Threads",
