@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Faculdade/TI 3/Reunião 26-08.md",
+                "file": "Obsidian/Faculdade/Grade Inteligente - AES/Commit pattern/Conventional commits.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Faculdade/TI 3/Reunião 26-08.md",
+                "file": "Obsidian/Faculdade/Grade Inteligente - AES/Commit pattern/Conventional commits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Faculdade/TI 3/Reunião 26-08.md",
+                "file": "Obsidian/Faculdade/Grade Inteligente - AES/Commit pattern/Conventional commits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Faculdade/TI 3/Reunião 26-08.md"
+                "file": "Obsidian/Faculdade/Grade Inteligente - AES/Commit pattern/Conventional commits.md"
               }
             }
           }
@@ -149,18 +149,34 @@
   },
   "active": "b4d97385eede600c",
   "lastOpenFiles": [
-    "Obsidian/Faculdade/TI 3/Coisas a fazer do TI 3.md",
-    "Obsidian/Faculdade/AEDS II/Exercício lab AEDs.md",
-    "Obsidian/Faculdade/TI 3/Reunião 26-08.md",
-    "Obsidian/Faculdade/Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Usuário.md",
-    "Obsidian/Faculdade/Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md",
+    "Obsidian/Faculdade/Disciplinas/Introdução aos sistemas inteligentes/Unidade 01 - IA/Definição e conceitos de IA.md",
+    "Obsidian/Faculdade/Disciplinas",
+    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Máquinas Virtuais/Definição de máquinas virtuais.md",
+    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Componentes/Principais componentes do SO.md",
+    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura de camadas.md",
+    "Obsidian/Faculdade/Disciplinas/Introdução aos sistemas inteligentes/Unidade 01 - IA/Aplicações de IA.md",
+    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Processos e Threads/Escalonamento de Processos.md",
+    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Processos e Threads/Conceito de Processo.md",
+    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Definição-Objetivos.md",
+    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura simples.md",
+    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/images/Pasted image 20240828214120.png",
+    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/images/Pasted image 20240828214418.png",
+    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/UI.md",
+    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
+    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura Microkernel.md",
+    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Usuário.md",
+    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md",
+    "Obsidian/Faculdade/Grade Inteligente - AES/Commit pattern/Conventional commits.md",
+    "Grade Inteligente - AES/Untitled.md",
+    "Obsidian/Faculdade/Grade Inteligente - AES/Commit pattern",
+    "Obsidian/Faculdade/Disciplinas/AEDS II/Exercício lab AEDs.md",
+    "Obsidian/Faculdade/Grade Inteligente - AES",
+    "Obsidian/Faculdade/Disciplinas/TI 3/Reunião 26-08.md",
+    "Obsidian/Faculdade/Disciplinas/TI 3/Coisas a fazer do TI 3.md",
     "Obsidian/Faculdade/Sistemas Operacionais/Estrutura de Sisemas de Computação/Objetui",
-    "Obsidian/Faculdade/Sistemas Operacionais/Estrutura de Sisemas de Computação/UI.md",
-    "Obsidian/Faculdade/Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
-    "Obsidian/Faculdade/Sistemas Operacionais/Componentes/Principais componentes do SO.md",
     "Obsidian/Faculdade/Engenharia de Requisitos/Requistos/Definição de Requisitos.md",
-    "Obsidian/Faculdade/Engenharia de Requisitos/Processos de software/Definição.md",
-    "Obsidian/Faculdade/Engenharia de Requisitos/Processos de software/Tipos de processos.md",
+    "Obsidian/Faculdade/Disciplinas/Engenharia de Requisitos/Processos de software/Definição.md",
+    "Obsidian/Faculdade/Disciplinas/Engenharia de Requisitos/Processos de software/Tipos de processos.md",
     "Obsidian/Faculdade/Engenharia de Requisitos/Requistos/Tipos de Requisitos.md",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 3 - Machine Learning/Orange Data Mining",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 3 - Machine Learning/Untitled.md",
@@ -169,26 +185,11 @@
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 2 - Data Science/BIg Data/Estratégia de Dados de neg",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 2 - Data Science/BIg Data/Analytics",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 2 - Data Science/BIg Data/Big Data",
-    "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 2 - Data Science/Dados/Preparação de dados",
-    "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 2 - Data Science/Dados/Processo ETL",
-    "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 2 - Data Science/Dados/Estati. Desc e Med. Espalha",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 1 - Inteligencia Articial/Untitled.md",
-    "Obsidian/Faculdade/Engenharia de Requisitos/Processos de software/Modelagem de Processos/Princípios da Modelagem.md",
-    "Obsidian/Faculdade/Engenharia de Requisitos/Processos de software/Modelagem de Processos/Objetivo da modelagem.md",
-    "Obsidian/Faculdade/AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
-    "Obsidian/Faculdade/AEDS II/Unidade 01/Noções de Complexidade/Exercícios.md",
-    "Obsidian/Faculdade/Engenharia de Requisitos/Elicitação de Requisitos/Tipos.md",
-    "Obsidian/Faculdade/Sistemas Operacionais/Definição-Objetivos.md",
-    "Obsidian/Faculdade/Sistemas Operacionais/Componentes/Principais.md",
-    "Obsidian/Faculdade/Introdução a Pesquisa/Técnica e Ciência.md",
-    "Obsidian/Faculdade/Introdução a Pesquisa/Pensamento Científico.md",
-    "Obsidian/Faculdade/AEDS II/images/Pasted image 20240810230333.png",
+    "Obsidian/Faculdade/Disciplinas/AEDS II/images/Pasted image 20240810230333.png",
     "Pasted image 20240810225930.png",
     "Pasted image 20240810230250.png",
     "Pasted image 20240810230304.png",
-    "Pasted image 20240810230251.png",
-    "[Técnica e Ciência.md",
-    "Obsidian/Faculdade/Engenharia de Requisitos/Problemas no desenvolvimento/Importância da Analise do Projeto.md",
-    "Obsidian/Faculdade/Engenharia de Requisitos/Problemas no desenvolvimento/Problemas de desenvolvimento.md"
+    "Pasted image 20240810230251.png"
   ]
 }
