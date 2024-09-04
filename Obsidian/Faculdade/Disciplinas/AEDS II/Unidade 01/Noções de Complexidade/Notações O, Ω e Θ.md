@@ -28,7 +28,6 @@ Prove que $2^n+1 = O(2^n)$
 $2^n+1 = 2^n.2^1$, neste caso teremos $2^n$ em ambos os lados, então podemos cancelar este termo. Então a constante é ≥ 2 
 ##### Dica
 Quando o lado de g(n) da inequação está em função de n, é impossível achar o valor de c
-
 ### Notação Ω
 - Se uma função é $Ω(n^2)$, ela será limitada por função de graus inferiores
 - g(n) cresce tão lentamente quanto f(n)
@@ -36,15 +35,10 @@ Quando o lado de g(n) da inequação está em função de n, é impossível acha
 - Ou seja, em O queremos os valores máximos, em Ω queremos os valores mínimos
 - ![[Pasted image 20240829220225.png]]
 	- O sinal da inequação é invertido, uma vez que buscamos valores mínimos
-	- 
 #### Exemplo de exercícios
 Prove que $n^2 + 10 = Ω(n^2)$
 A resposta é simplesmente uma constante que multiplicada a f(n) não ultrapasse o valor de g(n)
 ![[Pasted image 20240829220823.png]]
-
-
-
-#### Quando n tende a ∞
 
 ### Notação Θ
 

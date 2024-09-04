@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas Operacionais/Processos e Threads/Escalonamento de Processos.md",
+                "file": "Disciplinas/AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas Operacionais/Processos e Threads/Escalonamento de Processos.md",
+                "file": "Disciplinas/AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas Operacionais/Processos e Threads/Escalonamento de Processos.md",
+                "file": "Disciplinas/AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas Operacionais/Processos e Threads/Escalonamento de Processos.md"
+                "file": "Disciplinas/AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "9fec3af0aa008fb7",
   "lastOpenFiles": [
+    "Disciplinas/AEDS II/Unidade 01/Somatórios.md",
+    "Disciplinas/AEDS II/Exercício lab AEDs.md",
+    "Disciplinas/AEDS II/Unidade 01/Pesquisa Sequencial e Binária.md",
+    "Disciplinas/AEDS II/Unidade 01/Untitled",
     "Sistemas Operacionais/images/Pasted image 20240902211817.png",
     "Engenharia de Requisitos/Requisitos/Histórias de usuário.md",
     "Engenharia de Requisitos/Processos de software/Tipos de processos.md",
@@ -184,15 +188,11 @@
     "Introdução a Pesquisa/Artigo científico.md",
     "Cultura Religiosa",
     "AEDS II/images/Pasted image 20240822220411.png",
-    "AEDS II/images/Pasted image 20240822215934.png",
-    "AEDS II/Unidade 01/Ordenação por seleção.md",
-    "Introdução aos sistemas inteligentes/Unidade 01 - IA/Aplicações de IA.md",
     "Introdução aos sistemas inteligentes/Unidade 01 - IA",
     "Introdução aos sistemas inteligentes",
     "Sistemas Operacionais/Processos e Threads",
     "Sistemas Operacionais/Máquinas Virtuais",
     "Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas",
-    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços",
-    "Engenharia de Requisitos/Metodologias Agéis"
+    "Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços"
   ]
 }
