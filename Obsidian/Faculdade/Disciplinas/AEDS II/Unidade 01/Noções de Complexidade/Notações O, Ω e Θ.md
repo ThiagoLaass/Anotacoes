@@ -1,4 +1,3 @@
-
 ### Notações
 - É considerado apenas a maior potencia de n
 - O é o limite superior
@@ -35,10 +34,16 @@ Quando o lado de g(n) da inequação está em função de n, é impossível acha
 - Ou seja, em O queremos os valores máximos, em Ω queremos os valores mínimos
 - ![[Pasted image 20240829220225.png]]
 	- O sinal da inequação é invertido, uma vez que buscamos valores mínimos
-#### Exemplo de exercícios
+#### Exemplo de exercício
 Prove que $n^2 + 10 = Ω(n^2)$
 A resposta é simplesmente uma constante que multiplicada a f(n) não ultrapasse o valor de g(n)
 ![[Pasted image 20240829220823.png]]
-
 ### Notação Θ
-
+- $g(n)$ Cresce tão rapidamente quanto $f(n)$ 
+	- $f(n)$ limita $g(n)$ tanto inferiormente quanto superiormente 
+	- $f(n)$ é um limite assintótico restrito para g(n).
+- Se $g(n)$ é $Θ(n)$ então ele também é $O(f(n))$ e $Ω(f(n))$, uma vez que ele o limita por cima e por baixo
+- ![[Pasted image 20240903214823.png]]
+	- Duas constantes, como se uma fosse para o $O(n)$ e outra para $Ω(n)$
+#### Exemplo de exercício
+![[Pasted image 20240903215610.png]]

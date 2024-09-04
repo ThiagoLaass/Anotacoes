@@ -65,5 +65,9 @@ Complexidade:
 		f(n) = c^n
 	
 7. **Complexidade Fatorial**
-	Comportamento similar a exponencial, pórem muito pior na prática
+	Comportamento similar a exponencial, porém muito pior na prática
 		f(n) = n!
+
+### Comportamento assintótico
+- Tomamos como relevante os valores onde n tem o maior crescimento
+	- Neste caso, onde está elevado a maior potência
