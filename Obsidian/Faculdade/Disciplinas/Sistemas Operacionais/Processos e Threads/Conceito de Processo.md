@@ -1,7 +1,6 @@
 ### Definição
 - Programa em execução
 - Unidade que representa o que está sendo utilizado naquela hora
-
 ### Do que o processo é formado
 - Contador de programa
 - Pilha
@@ -19,9 +18,8 @@
 #### 5. Encerrado
 - A execução do processo foi concluída
 - Não significa que será sobrescrito com outro processo imediatamente
-	- O SO aloca os processos nos espaços que estão vazio
+	- O SO aloca os processos nos espaços que estão vazios
 	- O processo não fica na memória pra sempre, o SO verifica quando o processo foi encerrado -> quanto mais antigo, menor probabilidade dele ser necessário novamente
-
 ### Bloco de controle do Processo
 #### Informação de cada processo
 1. Estado do processo
@@ -32,10 +30,8 @@
 6. Informações de contabilidade
 7. Informações de I/O
 	1. Precisa do retorno de operação de entrada e saída -> concluída ou não
-
 ### Criação dos Processos
 - Processos podem criar outros processos
-	- Gera uma árvore de processos (que podem depender do processo que os criou)
+	- Gera uma árvore de processos (que podem depender daquele que os criou)
 - Compartilhamento de Recursos
 	- Ambos os processos que foram gerados e os que o gerou compartilham recursos
-	- 
