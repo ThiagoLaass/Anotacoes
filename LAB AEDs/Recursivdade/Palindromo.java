@@ -30,5 +30,4 @@ class Palindromo {
         }
         return is_palindromo(s, i + 1, j - 1);
     }
-
 }
