@@ -18,7 +18,7 @@ Resposta: 0 + 0 + 6 + 12 + 12 + 0  = 30
 		 - ![[Pasted image 20240822212817.png]]
 		- Quando o limite diferente é o superior, basta
 			- Fazer a mesma coisa, porem no final do somatório
-- Comutatividade
+- **Comutatividade**
 	- Permite colocar os termos do somatório em qualquer ordem
 	- Exemplo em código (Somatório dos elementos de uma matriz)
 		![[Pasted image 20240822214026.png]]
@@ -31,15 +31,11 @@ Resposta: 0 + 0 + 6 + 12 + 12 + 0  = 30
 			- ![[Pasted image 20240822215934.png]]
 				- Podemos dividir por 2, neste caso S = a função dividida por 2
 					- ![[Pasted image 20240822220411.png]]
-
 ### Propriedades de somatórios
 
 #### Combinando conjuntos
 - Como existe uma união, faremos a soma dos elementos que se repetem em diferentes conjuntos apenas uma vez.
-
-#### Base para perturbação da soma
-- Soma
-
-### Fórmula
-- As fórmulas estão listadas no slide "Somatórios" no canvas
-
+- ![[Pasted image 20240905165206.png]]
+#### Fórmulas 
+![[Pasted image 20240905165008.png]]
+![[Pasted image 20240905165042.png]]
