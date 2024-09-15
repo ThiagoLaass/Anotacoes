@@ -1,0 +1,2 @@
+- Upload de um arquivo CSV 
+	- console.log que lista cada linha deste CSV

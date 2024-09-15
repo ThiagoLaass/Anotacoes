@@ -190,6 +190,6 @@ public class Aplicacao implements Serializable {
     private static MedalhistasDAO medalhistasDAO = new MedalhistasDAO();
 
     public static void main(String[] args) {
-        List<Object> data = medalhistasDAO.leitura();
+        HashMap<Medalhista, Medalha> data = medalhistasDAO.leitura();
     }
 }

@@ -20,7 +20,7 @@
 Qual a operação mais importante?
 	multiplicação
 Complexidade:
-	n(n-7)
+	$n(n-7)$
 	**Dica: multiplicar o for de fora pelo de dentro**
 
 ### Casos de complexidade
@@ -31,11 +31,11 @@ Complexidade:
 	3. Ordenação com dados aleatórios
 #### Três cenários (Para todas entradas possíveis, interesse no pior caso)
 1. Melhor caso: menor tempo de execução
-	f(n) = 1
+	$f(n) = 1$
 2. Pior caso: maior tempo de execução, tempo máximo de execução do algoritmo
-	f(n) = n
+	$f(n) = n$
 3. Caso médio: média de tempo de execução
-	f(n) = (n+1)/2	
+	$f(n) = (n+1)/2$
 #### Tipos de Complexidade
 1. **Complexidade Fixa (Constante)**
 	1. As instruções são sempre executadas um número fixo de vezes
@@ -43,31 +43,30 @@ Complexidade:
 2. **Complexidade Logarítmica**
 	Algoritmos que resolvem problemas os dividindo em partes menores
 	Calcula-se a complexidade com o log em função de n
-	**Complexidade nlog(n)**
+	**Complexidade $O(n.log(n))$**
 		Quebram o problemas em partes menores, agrupando as soluções
 		
 3. **Complexidade Linear**
 	Uma operação é realizada para cada elemento da entrada
-		fn(n) = n
+		$fn(n) = n$
 	
 4. **Complexidade Quadrática**
 	- Itens processados por pares. 
 	- Tipicamente um laço dentro do outro. 
 	- Útil para problemas pequenos
-		f(n) = n^2
+		$f(n) = O(n^2)$
 	
 5. **Complexidade Cúbica**
-	Utilizados em problemas ainda menores do que aqueles na complexidae quadrática
-		f(n) = n^3
+	Utilizados em problemas ainda menores do que aqueles na complexidade quadrática
+		$f(n) = O(n^3)$
 	
 6. **Complexidade Exponencial**
 	Utilizados em algoritmos de força bruta
-		f(n) = c^n
+		$f(n) = O(c^n)$
 	
 7. **Complexidade Fatorial**
 	Comportamento similar a exponencial, porém muito pior na prática
-		f(n) = n!
-
+		$f(n) = O(n!)$
 ### Comportamento assintótico
 - Tomamos como relevante os valores onde n tem o maior crescimento
 	- Neste caso, onde está elevado a maior potência

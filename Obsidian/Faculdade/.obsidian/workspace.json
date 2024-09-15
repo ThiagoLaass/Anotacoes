@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disciplinas/AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
+                "file": "Disciplinas/AEDS II/Unidade 02/Métodos de ordenação por seleção/Algoritmos de ordenação.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disciplinas/AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
+                "file": "Disciplinas/AEDS II/Unidade 02/Métodos de ordenação por seleção/Algoritmos de ordenação.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Disciplinas/AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
+                "file": "Disciplinas/AEDS II/Unidade 02/Métodos de ordenação por seleção/Algoritmos de ordenação.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Disciplinas/AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md"
+                "file": "Disciplinas/AEDS II/Unidade 02/Métodos de ordenação por seleção/Algoritmos de ordenação.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,51 +149,51 @@
   },
   "active": "bf6bc3f6e3e2ae6d",
   "lastOpenFiles": [
+    "Disciplinas/AEDS II/Unidade 02/Métodos de ordenação por seleção/Algoritmos básicos de ordenação.md",
+    "Disciplinas/AEDS II/Unidade 02/Métodos de ordenação por seleção/Algoritmos de ordenação.md",
+    "Disciplinas/AEDS II/Matéria 1-prova.md",
+    "Disciplinas/AEDS II/Unidade 02",
     "Disciplinas/AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
+    "Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Usuário.md",
     "Disciplinas/AEDS II/Unidade 01/Pesquisa Sequencial e Binária.md",
+    "Disciplinas/AEDS II/Unidade 01/Somatórios.md",
+    "Disciplinas/AEDS II/Unidade 01/Métodos de ordenação por seleção/Ordenação.md",
+    "Disciplinas/Sistemas Operacionais/Processos e Threads/Escalonamento de Processos.md",
+    "Disciplinas/AEDS II/Unidade 02/Métodos de ordenação por seleção",
+    "Disciplinas/Sistemas Operacionais/Processos e Threads/Conceito de Processo.md",
+    "Disciplinas/Sistemas Operacionais/Exercícios/Exercícios de Revisão.md",
+    "Disciplinas/Sistemas Operacionais/Processos e Threads/Problema de Deadlock.md",
+    "Disciplinas/Sistemas Operacionais/Processos e Threads/Threads.md",
+    "Disciplinas/Sistemas Operacionais/Máquinas Virtuais/Definição de máquinas virtuais.md",
+    "Disciplinas/Sistemas Operacionais/Componentes/Principais componentes do SO.md",
+    "Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
+    "Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura de camadas.md",
+    "Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md",
+    "Disciplinas/Sistemas Operacionais/Exercícios",
     "Disciplinas/AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
-    "Disciplinas/AEDS II/Unidade 01/Ordenação por seleção.md",
+    "Disciplinas/AEDS II/Unidade 01/Piso e Teto.md",
+    "Grade Inteligente - AES/O que fazer.md",
+    "Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura Microkernel.md",
     "2024-09-05.md",
     "Disciplinas/AEDS II/images/Pasted image 20240905165008.png",
     "Escalonamento de Processos.pdf",
     "Disciplinas/AEDS II/images/Pasted image 20240905165206.png",
     "Disciplinas/AEDS II/images/Pasted image 20240905165042.png",
     "Somatórios.pdf",
-    "Disciplinas/AEDS II/Unidade 01/Somatórios.md",
     "Disciplinas/Engenharia de Requisitos/Problemas no desenvolvimento/Problemas de desenvolvimento.md",
     "Disciplinas/Engenharia de Requisitos/Problemas no desenvolvimento/Importância da Analise do Projeto.md",
     "Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura simples.md",
-    "Disciplinas/Sistemas Operacionais/Processos e Threads/Escalonamento de Processos.md",
-    "Disciplinas/Sistemas Operacionais/Componentes/Principais componentes do SO.md",
-    "Disciplinas/Sistemas Operacionais/Processos e Threads/Conceito de Processo.md",
     "Conceito de Processo.pdf",
-    "Disciplinas/Sistemas Operacionais/Máquinas Virtuais/Definição de máquinas virtuais.md",
-    "Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/UI.md",
-    "Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md",
-    "Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura Microkernel.md",
     "Disciplinas/Sistemas Operacionais/images/Pasted image 20240904214926.png",
     "Disciplinas/Sistemas Operacionais/images/Pasted image 20240904213906.png",
-    "Disciplinas/Sistemas Operacionais/Processos e Threads/Threads.md",
-    "Disciplinas/Sistemas Operacionais/Definição-Objetivos.md",
-    "Disciplinas/AEDS II/Unidade 01/Exercícios/Exercícios de complexidade.md",
     "Notações O, Ω e Θ.pdf",
-    "Disciplinas/Sistemas Operacionais/Processos e Threads/Problema de Deadlock.md",
     "Disciplinas/Sistemas Operacionais/images/Pasted image 20240904212511.png",
     "Disciplinas/Sistemas Operacionais/images/Pasted image 20240904212412.png",
     "Disciplinas/AEDS II/images/Pasted image 20240903215610.png",
-    "Disciplinas/AEDS II/Unidade 01/Noções de Complexidade/Comportamento assintótico.md",
     "Disciplinas/AEDS II/images/Pasted image 20240903214823.png",
-    "Disciplinas/AEDS II/Exercício lab AEDs.md",
-    "Disciplinas/AEDS II/Unidade 01/Untitled",
     "Sistemas Operacionais/images/Pasted image 20240902211817.png",
-    "Engenharia de Requisitos/Requisitos/Histórias de usuário.md",
-    "Engenharia de Requisitos/Processos de software/Tipos de processos.md",
-    "Engenharia de Requisitos/Processos de software/Definição.md",
-    "Engenharia de Requisitos/Processos de software/Modelagem de Processos/Princípios da Modelagem.md",
     "Sistemas Operacionais/images",
     "Cultura Religiosa/Exercício 26-08.pdf",
-    "Cultura Religiosa",
-    "Introdução aos sistemas inteligentes/Unidade 01 - IA",
-    "Introdução aos sistemas inteligentes"
+    "Cultura Religiosa"
   ]
 }

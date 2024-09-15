@@ -1,0 +1,11 @@
+### Mergesort
+- Segue o paradigma "Dividir e conquistar"
+	- Divide o problema em problemas menores
+	- Resolve cada subproblema
+	- Agrupa a resolução para cada subproblema
+- Tem o comportamento $n.log(n)$
+- Usa o principio das intercalações para ordenar dados
+- É um método recursivo
+- Não é um algoritmo in-place (a quantidade de memória alocada depende do tamanho do vetor)
+- Faz a intercalação ordenada de dois vetores
+	- Ambos os vetores tem que estar ordenado

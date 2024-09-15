@@ -3,6 +3,12 @@
 - O é o limite superior, ou seja, $g(n) ≤ f(n)$
 - Ω é o limite inferior, ou seja, $g(n) ≥ f(n)$
 - Θ é o limite justo, ou seja, $g(n) = f(n)$
+
+Quando é um polinomio e o maior expoente é seguido de soma, o sinal da inequação inverte
+	O: menor que
+	Omega: maior ou igual
+	Theta: menor ou igual e menor
+
 ### Notação O
 - Limite assintótico superior
 	- Se uma função é $O(n^2)$ ela também é limitada assintoticamente para funções de graus maiores

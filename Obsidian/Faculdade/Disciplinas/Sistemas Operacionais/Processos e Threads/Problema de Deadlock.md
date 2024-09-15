@@ -25,3 +25,29 @@ Um deadlock apenas acontece se os seguintes itens acontecerem
 	- Mapear previamente os recursos que cada processo irá utilizar
 	- Abortar um deadlock, abortando os processos que poderiam causar
 - Deixar ele acontecer e o tratar caso aconteça
+	- Matando processos ate o deadlock ser resolvido
+### Sincronismo de processos
+- Existência de uma comunicação entre os processos
+	- Situações
+		 - Como o processo compartilha informação com o outro
+		 - Por meio de memória compartilhada
+		 - Garante que processos não entrem conflito
+		 - Sequência adequada quando existirem dependências
+- Garante que a execução dos processos e threads que compartilham espaços no endereço lógico
+#### Condição de corrida
+- Dois ou mais processos estão lendo ou escrevendo um dado compartilhado e cujo resultado final depende de quem executa e quando
+	- Um processo depende de uma informação produzida por outro
+- Toda condição de corrida possui uma ***Região crítica***
+- O problema é a ***Condição de corrida***, a solução é a ***Região crítica***
+- Alternativas para evitar uma ***Condição de corrida***
+	- ***Exclusão mútua***
+		- ***Desabilitando interrupções***: cada processo desabilita as interrupções depois de entrar na região crítica
+			- Processos de usuário não tem esse poder
+		- ...continuação no slide
+#### Regiões críticas: 
+- Parte do programa que há acesso á memória compartilhada
+- Podem ser evitadas se nunca forem executadas ao mesmo tempo
+- Regiões criticas são chamadas de sistema
+	- Geradas para a região critica
+- O SO entende que quando ele chega na região critica, cada seção critica executa por vez
+	- Cada processo executa por vez
