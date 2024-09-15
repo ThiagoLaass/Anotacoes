@@ -2,7 +2,8 @@ package TempoEx_2;
 
 class Main {
     static long n = 7500000;
-    static int num = -1;
+    static int num = 9999;
+
     static int tamanho;
     static long startTime;
     static long endTime;
@@ -69,6 +70,7 @@ class Main {
         while (esq <= dir) {
             comparacoes++;
             meio = (esq + dir) / 2;
+            comparacoes++;
             if (x == vet[meio]) {
                 esq = dir + 1;
                 return comparacoes;
@@ -80,4 +82,5 @@ class Main {
         }
         return comparacoes;
     }
+
 }
