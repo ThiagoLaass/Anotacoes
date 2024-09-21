@@ -12,6 +12,7 @@
 - Perguntar com qual banco eles possuem conta
 	- pix, boleto, e cartão de crédito
 - Identificar regras de negócio da empresa (Política de devolução, o que é feito quando um produto vendido está expirado/quebrado)
+- Promoção de produtos
 ### Requisitos
 - Cada opção de pagamento é um novo requisito
 - Quebrar o requisito de usabilidade para pessoas idosas em pequenos requisitos (Elaborar estes requisitos na próxima reunião)

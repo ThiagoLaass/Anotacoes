@@ -1,2 +1,4 @@
 - Upload de um arquivo CSV 
 	- console.log que lista cada linha deste CSV
+- Perguntar o que fazer para a próxima Sprint
+- 
