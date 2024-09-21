@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Faculdade/Grade Inteligente - AES/Commit pattern/Conventional commits.md",
+                "file": "Obsidian/Faculdade/Disciplinas/TI 3/Coisas a fazer do TI 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 374.5
   },
   "right": {
     "id": "e4ffd41835464ccc",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Faculdade/Grade Inteligente - AES/Commit pattern/Conventional commits.md",
+                "file": "Obsidian/Faculdade/Disciplinas/TI 3/Coisas a fazer do TI 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Faculdade/Grade Inteligente - AES/Commit pattern/Conventional commits.md",
+                "file": "Obsidian/Faculdade/Disciplinas/TI 3/Coisas a fazer do TI 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Faculdade/Grade Inteligente - AES/Commit pattern/Conventional commits.md"
+                "file": "Obsidian/Faculdade/Disciplinas/TI 3/Coisas a fazer do TI 3.md"
               }
             }
           }
@@ -149,18 +149,27 @@
   },
   "active": "b4d97385eede600c",
   "lastOpenFiles": [
+    "Obsidian/Estagio/Machine Learning/Untitled.md",
+    "Obsidian/Estagio/Machine Learning",
+    "Obsidian/Faculdade/Disciplinas/TI 3/Coisas a fazer do TI 3.md",
+    "Obsidian/Estagio",
+    "Obsidian/Faculdade/Grade Inteligente - AES/O que fazer.md",
+    "Obsidian/Faculdade/Disciplinas/AEDS II/Unidade 01/Somatórios.md",
+    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Processos e Threads/Problema de Deadlock.md",
+    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Exercícios/Exercícios de Revisão.md",
+    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Processos e Threads/Conceito de Processo.md",
+    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Processos e Threads/Escalonamento de Processos.md",
+    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Processos e Threads/Threads.md",
+    "Obsidian/Faculdade/Grade Inteligente - AES/Commit pattern/Conventional commits.md",
     "Obsidian/Faculdade/Pasted image 20240903215610.png",
     "Obsidian/Faculdade/Disciplinas/AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
     "NODE JS",
-    "Obsidian/Faculdade/Grade Inteligente - AES/Commit pattern/Conventional commits.md",
     "Obsidian/Faculdade/Disciplinas/Introdução aos sistemas inteligentes/Unidade 01 - IA/Definição e conceitos de IA.md",
     "Obsidian/Faculdade/Disciplinas",
     "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Máquinas Virtuais/Definição de máquinas virtuais.md",
     "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Componentes/Principais componentes do SO.md",
     "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura de camadas.md",
     "Obsidian/Faculdade/Disciplinas/Introdução aos sistemas inteligentes/Unidade 01 - IA/Aplicações de IA.md",
-    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Processos e Threads/Escalonamento de Processos.md",
-    "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Processos e Threads/Conceito de Processo.md",
     "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Definição-Objetivos.md",
     "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura simples.md",
     "Obsidian/Faculdade/Disciplinas/Sistemas Operacionais/images/Pasted image 20240828214120.png",
@@ -174,19 +183,10 @@
     "Obsidian/Faculdade/Grade Inteligente - AES/Commit pattern",
     "Obsidian/Faculdade/Disciplinas/AEDS II/Exercício lab AEDs.md",
     "Obsidian/Faculdade/Grade Inteligente - AES",
-    "Obsidian/Faculdade/Disciplinas/TI 3/Reunião 26-08.md",
-    "Obsidian/Faculdade/Disciplinas/TI 3/Coisas a fazer do TI 3.md",
     "Obsidian/Faculdade/Sistemas Operacionais/Estrutura de Sisemas de Computação/Objetui",
-    "Obsidian/Faculdade/Engenharia de Requisitos/Requistos/Definição de Requisitos.md",
-    "Obsidian/Faculdade/Disciplinas/Engenharia de Requisitos/Processos de software/Definição.md",
-    "Obsidian/Faculdade/Disciplinas/Engenharia de Requisitos/Processos de software/Tipos de processos.md",
-    "Obsidian/Faculdade/Engenharia de Requisitos/Requistos/Tipos de Requisitos.md",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 3 - Machine Learning/Orange Data Mining",
-    "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 3 - Machine Learning/Untitled.md",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 3 - Machine Learning/Fund. do Aprendizado de Maq",
     "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 3 - Machine Learning",
-    "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 2 - Data Science/BIg Data/Estratégia de Dados de neg",
-    "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 2 - Data Science/BIg Data/Analytics",
     "Obsidian/Faculdade/Disciplinas/AEDS II/images/Pasted image 20240810230333.png",
     "Pasted image 20240810225930.png",
     "Pasted image 20240810230250.png",

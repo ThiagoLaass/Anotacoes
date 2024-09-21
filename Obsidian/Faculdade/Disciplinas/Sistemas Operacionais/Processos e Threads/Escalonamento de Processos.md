@@ -73,7 +73,7 @@ $$
 - Separa os processos em filas
 	- Cada fila um segue um parâmetro para os processos que estão nela
 - Cada fila pode ser independente
-- Cad fila pode ter um algoritmo diferente 
+- Cada fila pode ter um algoritmo diferente 
 - Existe escalonamento entre as filas
 	- Prioridade fixa: a primeira tem prioridade
 	- Fatia de tempo: cada fila tem seu tempo de CPU
@@ -83,4 +83,3 @@ $$
 	- Número de filas
 	- escalonamento de cada fila
 	- método utilizado para rebaixar ou promover um processo
-	- 
