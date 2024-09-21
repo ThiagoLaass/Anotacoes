@@ -1,4 +1,4 @@
-### Mergesort
+## Mergesort
 - Segue o paradigma "Dividir e conquistar"
 	- Divide o problema em problemas menores
 	- Resolve cada subproblema
@@ -8,4 +8,6 @@
 - É um método recursivo
 - Não é um algoritmo in-place (a quantidade de memória alocada depende do tamanho do vetor)
 - Faz a intercalação ordenada de dois vetores
-	- Ambos os vetores tem que estar ordenado
+	- Ambos os vetores tem que estar ordenados
+- Para ordenar um vetor, é feito a separação dele, ate chegar em vetores de tamanho 1, ordenando os subvetores ate ordenar o vetor principal
+- No método mergesort, o método é chamado até que o sub-array seja de tamanho 1, e então é chamado o método intercalar, que ordena de acordo com as variáveis que delimitam a esquerda, direita e o meio.  
