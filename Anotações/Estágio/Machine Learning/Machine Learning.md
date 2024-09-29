@@ -31,8 +31,26 @@
 	- Ou cada tipo de entrada, ou seja, classifica os dados
 - Exemplo:
 	- Separação de emails, como spam, importantes, etc
+- Atributos previsores
+	- Aqueles dados que definem qual classe determinado dado será caracterizado
+	- Os dados novos são submetidos à uma avaliação de acordo com os dados já existentes, a fim de treinar a inteligência artificial
+- Cada registro de dado é pertencente à uma classe e possui dados previsores, que o fizeram ser alocado para aquela classe
+	- O objetivo é atribuir um relacionamento entre os atributos previsores e o atributo meta
+		- O valor do atributo meta é conhecido
+#### Método indutivo
+##### Fase 1
+- Sendo cex o *Conjunto de exemplos*, *atp* os *Atributos previsores* e am o *Atributo meta*, temos a equação
+	- $cex-atp+am$
+- Que leva ao sistema de aprendizado (Algoritmos)
+- Que gera o Classificador
+##### Fase 2
+- Caso a ser classificado
+	- Atributo meta não conhecido
+- Classificador (Gerado na fase 1)
+- Decisão
+	- Onde é definida a classe onde o dado estará presente
 ### Regressão
-- Faz a previsão de valores numericos
+- Faz a previsão de valores numéricos
 	- Baseado em valores anteriores, se define um novo valor
 - Exemplo:
 	- Prever quanto a empresa terá de lucro, baseado em dados numéricos
@@ -43,11 +61,11 @@
 - Exemplo:
 	- Assimilar a venda de produtos com épocas especificas do ano
 ### Agrupamento
-- Analisar os dados e encontrar grupos especificos
+- Analisar os dados e encontrar grupos específicos
 - Exemplo
-	- Segmentar o mercado, econtrando grupos de pessoas que comprariam ou não um produto
+	- Segmentar o mercado, encontrando grupos de pessoas que comprariam ou não um produto
 ### Detecção de desvios (Outliers)
-- Detectação de dados que desviam do padrão
+- Detecção de dados que desviam do padrão
 - Exemplo
 	- Intrusão em redes
 ### Descoberta de padrões sequenciais

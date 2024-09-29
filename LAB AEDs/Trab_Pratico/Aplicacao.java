@@ -1,3 +1,5 @@
+package Trab_Pratico;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -7,18 +9,62 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 import java.util.Scanner;
+import java.util.Comparator;
 
 /**
  * Classe Medalhista: representa um medalhista olímpico e sua coleção de
  * medalhas nas Olimpíadas de Paris 2024
  */
-class Medalhista {
+class Medalhista implements Comparable<Medalhista> {
     private static final int MAX_MEDALHAS = 8;
     private String name;
     private String gender;
     private LocalDate birthDate;
     private String country;
     private List<Medalha> medals = new ArrayList<>();
+
+    @Override
+    public int compareTo(Medalhista outroMedalhista) {
+        int thisGoldCount = 0, thisSilverCount = 0, thisBronzeCount = 0;
+        int otherGoldCount = 0, otherSilverCount = 0, otherBronzeCount = 0;
+
+        // Contar as medalhas deste medalhista
+        for (Medalha medal : this.getMedals()) {
+            if (medal.getTipo() == TipoMedalha.OURO) {
+                thisGoldCount++;
+            } else if (medal.getTipo() == TipoMedalha.PRATA) {
+                thisSilverCount++;
+            } else if (medal.getTipo() == TipoMedalha.BRONZE) {
+                thisBronzeCount++;
+            }
+        }
+
+        // Contar as medalhas do outro medalhista
+        for (Medalha medal : outroMedalhista.getMedals()) {
+            if (medal.getTipo() == TipoMedalha.OURO) {
+                otherGoldCount++;
+            } else if (medal.getTipo() == TipoMedalha.PRATA) {
+                otherSilverCount++;
+            } else if (medal.getTipo() == TipoMedalha.BRONZE) {
+                otherBronzeCount++;
+            }
+        }
+
+        // Comparar primeiro o número de medalhas de ouro
+        if (thisGoldCount != otherGoldCount) {
+            return Integer.compare(otherGoldCount, thisGoldCount); // Ordem decrescente
+        }
+        // Se empatar em ouro, comparar prata
+        if (thisSilverCount != otherSilverCount) {
+            return Integer.compare(otherSilverCount, thisSilverCount); // Ordem decrescente
+        }
+        // Se empatar em prata, comparar bronze
+        if (thisBronzeCount != otherBronzeCount) {
+            return Integer.compare(otherBronzeCount, thisBronzeCount); // Ordem decrescente
+        }
+        // Se empatar em todas as medalhas, comparar pelo nome
+        return this.name.compareToIgnoreCase(outroMedalhista.getName());
+    }
 
     public Medalhista(String nome, String genero, LocalDate nascimento, String pais) {
         this.name = nome;
@@ -36,7 +82,7 @@ class Medalhista {
     public String relatorioDeMedalhas(TipoMedalha tipo) {
         StringBuilder relatorio = new StringBuilder();
         boolean hasMedals = false;
-    
+
         for (Medalha medalha : medals) {
             if (medalha.getTipo() == tipo) {
                 if (hasMedals) {
@@ -46,12 +92,13 @@ class Medalhista {
                 hasMedals = true;
             }
         }
-    
+
         if (!hasMedals) {
             return "Nao possui medalha de " + tipo;
         }
         return relatorio.toString();
     }
+
     @Override
     public String toString() {
         String dataFormatada = DateTimeFormatter.ofPattern("dd/MM/yyyy").format(birthDate);
@@ -64,14 +111,6 @@ class Medalhista {
 
     public List<Medalha> getMedals() {
         return medals;
-    }
-
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
-        Medalhista that = (Medalhista) o;
-        return name.equalsIgnoreCase(that.name) && birthDate.equals(that.birthDate);
     }
 
     @Override
@@ -109,7 +148,7 @@ class Medalha {
 
     @Override
     public String toString() {
-        String dataFormatada = DateTimeFormatter.ofPattern("dd/MM/yyyy").format(medalDate); 
+        String dataFormatada = DateTimeFormatter.ofPattern("dd/MM/yyyy").format(medalDate);
         return this.metalType + " - " + this.discipline + " - " + this.event + " - " + dataFormatada;
     }
 }
@@ -120,7 +159,7 @@ class MedalhistasDAO {
 
     public List<Medalhista> leitura() {
         List<Medalhista> medalhistas = new ArrayList<>();
-        String csvFile = "/tmp/medallists.csv";
+        String csvFile = System.getProperty("user.dir") + "/Trab_Pratico/medallists.csv";
 
         try (BufferedReader br = new BufferedReader(new FileReader(csvFile))) {
             String line;
@@ -164,28 +203,25 @@ class MedalhistasDAO {
 }
 
 public class Aplicacao {
-    private static final MedalhistasDAO medalhistasDAO = new MedalhistasDAO();
 
     public static void main(String[] args) {
-        List<Medalhista> medalhistas = medalhistasDAO.leitura();
+        try (Scanner scanner = new Scanner(System.in)) {
+            int quantAtletas = scanner.nextInt();
+            List<Medalhista> medalhistas = new MedalhistasDAO().leitura();
 
-        try (Scanner inputScanner = new Scanner(System.in)) {
-            while (inputScanner.hasNextLine()) {
-                String linha = inputScanner.nextLine();
-                if (linha.equals("FIM")) {
-                    System.exit(0);
-                }
-                String[] partes = linha.split(",");
-                String nome = partes[0];
-                TipoMedalha tipoMedalha = TipoMedalha.valueOf(partes[1].toUpperCase());
+            // Ordenar os medalhistas
+            BubbleSort<Medalhista> bubbleSort = new BubbleSort<>();
+            bubbleSort.setComparator(Comparator.naturalOrder()); // Usar o compareTo da classe Medalhista
+            Medalhista[] sortedMedalhistas = bubbleSort.ordenar(medalhistas.toArray(new Medalhista[0]));
 
-                Medalhista medalhista = findMedalhistaByName(medalhistas, nome);
-                if (medalhista != null) {
-                    System.out.println(medalhista);
-                    System.out.println(medalhista.relatorioDeMedalhas(tipoMedalha));
-                }
-                System.out.println();
+            // Exibir os medalhistas ordenados de acordo com o número estipulado
+            for (int i = 0; i < quantAtletas && i < sortedMedalhistas.length; i++) {
+                System.out.println(sortedMedalhistas[i]);
             }
+
+            System.out.println("Total de comparações: " + bubbleSort.getComparacoes());
+            System.out.println("Total de movimentações: " + bubbleSort.getMovimentacoes());
+            System.out.println("Tempo de ordenação: " + bubbleSort.getTempoOrdenacao() + "ms");
         }
     }
 
@@ -196,5 +232,68 @@ public class Aplicacao {
             }
         }
         return null;
+    }
+
+    interface IOrdenator<T> {
+        T[] ordenar(T[] array);
+
+        void setComparator(Comparator<T> comparator);
+
+        int getComparacoes();
+
+        int getMovimentacoes();
+
+        double getTempoOrdenacao();
+    }
+
+    static class BubbleSort<T> implements IOrdenator<T> {
+
+        private Comparator<T> comparator;
+        private int comparacoes;
+        private int movimentacoes;
+        private double tempoOrdenacao;
+
+        @Override
+        public void setComparator(Comparator<T> comparator) {
+            this.comparator = comparator;
+        }
+
+        @Override
+        public T[] ordenar(T[] array) {
+            comparacoes = 0;
+            movimentacoes = 0;
+            long startTime = System.nanoTime();
+
+            for (int i = 0; i < array.length - 1; i++) {
+                for (int j = 0; j < array.length - 1 - i; j++) {
+                    comparacoes++;
+                    if (comparator.compare(array[j], array[j + 1]) > 0) {
+                        T temp = array[j];
+                        array[j] = array[j + 1];
+                        array[j + 1] = temp;
+                        movimentacoes++;
+                    }
+                }
+            }
+
+            long endTime = System.nanoTime();
+            tempoOrdenacao = (endTime - startTime) / 1e6; // Convertido para milissegundos
+            return array;
+        }
+
+        @Override
+        public int getComparacoes() {
+            return comparacoes;
+        }
+
+        @Override
+        public int getMovimentacoes() {
+            return movimentacoes;
+        }
+
+        @Override
+        public double getTempoOrdenacao() {
+            return tempoOrdenacao;
+        }
     }
 }
