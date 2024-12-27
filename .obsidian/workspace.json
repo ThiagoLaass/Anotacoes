@@ -11,14 +11,10 @@
             "id": "b4d97385eede600c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anotações/Faculdade/Disciplinas/AEDS II/unidade 03/Fila.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Fila"
+              "title": "New tab"
             }
           }
         ],
@@ -164,11 +160,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "401d553610ff3720",
+  "active": "b4d97385eede600c",
   "lastOpenFiles": [
+    "Anotações/Faculdade/Grade Inteligente - AES/anotações.md",
+    "Grade Inteligente - AES/Commit pattern/Conventional commits.md",
+    "Grade Inteligente - AES/O que fazer.md",
+    "Grade Inteligente - AES/Tasks.md",
+    "Grade Inteligente - AES/Commit pattern",
+    "Grade Inteligente - AES/anotações.md",
+    "Grade Inteligente - AES",
+    "Anotações/Faculdade/Grade Inteligente - AES/O que fazer.md",
+    "Anotações/Faculdade/Grade Inteligente - AES/Tasks.md",
+    "Anotações/Faculdade/Disciplinas/AEDS II/unidade 03/Fila.md",
     "Anotações/Faculdade/Disciplinas/AEDS II/unidade 03/Pilha.md",
     "Anotações/Faculdade/Disciplinas/AEDS II/unidade 03/Lista.md",
-    "Anotações/Faculdade/Disciplinas/AEDS II/unidade 03/Fila.md",
     "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 04/Árvore binária.md",
     "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 04/Árvores.md",
     "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 04/Tabela HASH.md",
@@ -190,18 +195,11 @@
     "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
     "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
     "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 01/Exercícios/Exercícios de complexidade.md",
-    "Anotações/Faculdade/Grade Inteligente - AES/anotações.md",
     "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Solução.md",
     "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Revisão prova 02-12.md",
     "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Definição-Objetivos.md",
     "Anotações/Faculdade/Grade Inteligente - AES/Commit pattern/Conventional commits.md",
-    "Anotações/Faculdade/Grade Inteligente - AES/Tasks.md",
-    "Anotações/Faculdade/Grade Inteligente - AES/O que fazer.md",
     "Anotações/Estágio/Perplexity AI.md",
-    "Anotações/Estágio/Machine Learning/Machine Learning.md",
-    "Anotações/Estágio/API OpenAi/Introdução.md",
-    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Revisão prova 28-10.md",
-    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Gerencia de memória/Alocação de memória.md",
     "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/images/80e30bfe-a7cd-42db-9590-3c44e2875480.jpg",
     "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Disco",
     "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 04",
@@ -209,8 +207,6 @@
     "Anotações/Estágio/API Google Cloud (Places)",
     "Anotações/Estágio/RAG",
     "ti3",
-    "Anotações/Faculdade/Disciplinas/Engenharia de Requisitos/Untitled",
-    "Anotações/Faculdade/Disciplinas/AEDS II/unidade 03",
-    "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 02/Untitled"
+    "Anotações/Faculdade/Disciplinas/Engenharia de Requisitos/Untitled"
   ]
 }
