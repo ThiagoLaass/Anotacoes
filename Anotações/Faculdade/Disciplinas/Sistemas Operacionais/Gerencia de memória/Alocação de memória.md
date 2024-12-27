@@ -39,3 +39,29 @@
 	- Todos para baixo
 	- Metade para cima e metade para baixo
 - O objetivo é separar um espaço da memória onde existe apenas brechas, além de movimentar o menor número de processos possível
+## Mapeamento de páginas em quadros
+### Páginas pequenas
+- Tempo de transferencia de páginas curto
+- Muitas páginas de diferentes programas na memória
+- Tabela de página muito grande
+- Mais adequada para instruções
+### Páginas de grande tamanho
+- Tabelas de páginas menores
+- Tempo de transferência longo
+- Mais adequada para dados
+#### O tamanho de páginas varia
+## Alocação de quadros
+- Quantidade minima de quadros que um processo pode receber
+	- O suficientes para armazenar todas as páginas diferentes que uma única instrução deve ter
+#### Alocação igual
+- Todos os processos recebem parcelas iguais de quadros
+	- Dividi o número de quadros pelo número de processos
+#### Proporcional
+- Quadros alocados de acordo com o tamanho de cada processo
+#### Alocação global
+- Substituição de quadros dentro do processo
+	- Apenas dentro do processo
+- Páginação apenas acontece entre páginas do mesmo processo
+#### Alocação global
+- Alocação feita considerando o conjunto de quadros
+	- O total de quadros alocados a outros processos

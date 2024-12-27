@@ -1,4 +1,3 @@
-
 - SO dividido em camadas, existe uma separação, mas ainda não apresenta o modelo que é conhecido hoje em dia
 - Camada mais interior é o hardware, a  mais exterior é a interface de usuário
 - Cada camada apenas utiliza funções de níveis mais baixos

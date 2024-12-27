@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotações/Estágio/Machine Learning/Machine Learning.md",
+                "file": "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 01/Somatórios.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Somatórios"
             }
           }
         ],
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,15 +69,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 361.5
   },
   "right": {
     "id": "e4ffd41835464ccc",
@@ -87,15 +94,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Anotações/Estágio/Machine Learning/Machine Learning.md",
+                "file": "Anotações/Faculdade/Disciplinas/AEDS II/unidade 03/Fila.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Fila"
             }
           },
           {
@@ -104,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Anotações/Estágio/Machine Learning/Machine Learning.md",
+                "file": "Anotações/Faculdade/Disciplinas/AEDS II/unidade 03/Fila.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Fila"
             }
           },
           {
@@ -118,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -127,15 +140,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Anotações/Estágio/Machine Learning/Machine Learning.md"
-              }
+                "file": "Anotações/Faculdade/Disciplinas/AEDS II/unidade 03/Fila.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Fila"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 283.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -150,49 +166,51 @@
   },
   "active": "b4d97385eede600c",
   "lastOpenFiles": [
-    "Anotações/Estágio/Curso",
-    "Anotações/Estágio/Machine Learning/Machine Learning.md",
-    "Anotações/Estágio/Machine Learning",
-    "Anotações/Faculdade/Disciplinas/TI 3/Coisas a fazer do TI 3.md",
-    "Anotações/Estágio",
-    "Obsidian/Estagio/Machine Learning/Untitled.md",
-    "Obsidian/Estagio/Machine Learning",
-    "Obsidian/Estagio",
-    "Anotações/Faculdade/Grade Inteligente - AES/O que fazer.md",
+    "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 01/Piso e Teto.md",
+    "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 01/Pesquisa Sequencial e Binária.md",
     "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 01/Somatórios.md",
-    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Processos e Threads/Problema de Deadlock.md",
-    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Exercícios/Exercícios de Revisão.md",
-    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Processos e Threads/Conceito de Processo.md",
-    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Processos e Threads/Escalonamento de Processos.md",
-    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Processos e Threads/Threads.md",
-    "Anotações/Faculdade/Grade Inteligente - AES/Commit pattern/Conventional commits.md",
-    "Obsidian/Faculdade/Pasted image 20240903215610.png",
     "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
-    "NODE JS",
-    "Anotações/Faculdade/Disciplinas/Introdução aos sistemas inteligentes/Unidade 01 - IA/Definição e conceitos de IA.md",
-    "Anotações/Faculdade/Disciplinas",
-    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Máquinas Virtuais/Definição de máquinas virtuais.md",
-    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Componentes/Principais componentes do SO.md",
-    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura de camadas.md",
-    "Anotações/Faculdade/Disciplinas/Introdução aos sistemas inteligentes/Unidade 01 - IA/Aplicações de IA.md",
+    "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
+    "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 01/Exercícios/Exercícios de complexidade.md",
+    "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 04/AVL.md",
+    "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 04/Árvores.md",
+    "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 04/Árvore binária.md",
+    "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 04/Tabela HASH.md",
+    "Anotações/Faculdade/Disciplinas/AEDS II/Matéria 1-prova.md",
+    "Anotações/Faculdade/Grade Inteligente - AES/anotações.md",
+    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Solução.md",
+    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Revisão prova 02-12.md",
     "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Definição-Objetivos.md",
-    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura simples.md",
-    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/images/Pasted image 20240828214120.png",
-    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/images/Pasted image 20240828214418.png",
-    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/UI.md",
-    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
+    "Anotações/Faculdade/Grade Inteligente - AES/Commit pattern/Conventional commits.md",
+    "Anotações/Faculdade/Grade Inteligente - AES/Tasks.md",
+    "Anotações/Faculdade/Grade Inteligente - AES/O que fazer.md",
+    "Anotações/Estágio/Perplexity AI.md",
+    "Anotações/Estágio/Machine Learning/Machine Learning.md",
+    "Anotações/Estágio/API OpenAi/Introdução.md",
+    "Revisão prova 02-12.pdf",
+    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Revisão prova 28-10.md",
+    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Gerencia de memória/Alocação de memória.md",
+    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Disco/Escalonamento de disco.md",
+    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura de camadas.md",
     "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura Microkernel.md",
-    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Usuário.md",
-    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md",
-    "Grade Inteligente - AES/Untitled.md",
-    "Anotações/Faculdade/Grade Inteligente - AES/Commit pattern",
-    "Anotações/Faculdade/Grade Inteligente - AES",
-    "Obsidian/Faculdade/Sistemas Operacionais/Estrutura de Sisemas de Computação/Objetui",
-    "Obsidian/Faculdade/Sistemas Inteligentes/Unidade 3 - Machine Learning/Orange Data Mining",
-    "Anotações/Faculdade/Disciplinas/AEDS II/images/Pasted image 20240810230333.png",
-    "Pasted image 20240810225930.png",
-    "Pasted image 20240810230250.png",
-    "Pasted image 20240810230304.png",
-    "Pasted image 20240810230251.png"
+    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/images/80e30bfe-a7cd-42db-9590-3c44e2875480.jpg",
+    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/images/Pasted image 20240828214120.png",
+    "Pasted image 20241119184547.png",
+    "Pasted image 20241119184446.png",
+    "Pasted image 20241119184222.png",
+    "Pasted image 20241119184046.png",
+    "Pasted image 20241119183956.png",
+    "Pasted image 20241119183954.png",
+    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/Disco",
+    "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 04",
+    "Exercicios 28-10.pdf",
+    "Anotações/Estágio/images/Pasted image 20240927153659.png",
+    "Anotações/Estágio/API Google Cloud (Places)",
+    "Anotações/Estágio/RAG",
+    "Anotações/Faculdade/Disciplinas/Sistemas Operacionais/images/Pasted image 20240902211817.png",
+    "ti3",
+    "Anotações/Faculdade/Disciplinas/Engenharia de Requisitos/Untitled",
+    "Anotações/Faculdade/Disciplinas/AEDS II/unidade 03",
+    "Anotações/Faculdade/Disciplinas/AEDS II/Unidade 02/Untitled"
   ]
 }

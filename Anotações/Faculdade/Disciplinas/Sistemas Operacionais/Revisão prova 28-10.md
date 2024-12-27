@@ -1,0 +1,27 @@
+- [[Alocação de memória]]
+	- Alocação fixa
+		- Alocação de memória fixa, que independe do tamanho do processo que está sendo alocado
+		- Fragmentação interna
+			- Fragmentação dentro do endereço de memória que o processo está alocado
+	- Alocação dinâmica
+		- Alocação de memória de acordo com o tamanho do processo que está sendo alocado
+		- Fragmentação externa
+			- Fragmentação entre os espaços de memória, ou entre os processos
+	- Fragmentação
+		- Diferente para cada tipo de fragmentação
+	- Compactação
+		- Possível solução para a fragmentação de memória
+			- Tem como objetivo mover o menor número de processos, tornando os pequenos buracos separados em grandes espaço's livres de memória
+	- Paginação
+		- Páginas apontam para a memória virtual, e os quadros para a memória física
+		- Os processos agora são páginas dentro da memória
+		- As páginas são do mesmo tamanho dos quadros
+		- Na tabela de páginas, os índices indicam onde as paginas devem ser alocadas
+		- Para gerar a transição da memória lógica para a física, o cpu gera a pagina e seu deslocamento.
+			- Página x -> no quadro y (Verificar anotações passadas e o slide de paginação no canvas)
+	- Memória virtual
+		- Paginação sob demanda, apenas chama (da memória virtual) as páginas que serão executadas, ou seja as mais relevantes
+		- Algoritmos são implementados para selecionar qual página será removida da memória e qual a substituirá
+		- A memória virtual só é utilizada quando a memória principal está cheia
+		- Validação de BIT
+			- Um bit é alocado para cada página, que represnta se ela está no local errado ou não
