@@ -1,9 +1,7 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
-package com.mycompany.bubblesortolimpiadas;
 
-import static com.mycompany.bubblesortolimpiadas.Olimpiadas.leArquivo;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
@@ -332,7 +330,7 @@ public class BubblesortOlimpiadas {
 
     public static void main(String[] args) throws IOException {
         String caminhoArquivo = "C:\\Users\\i.cathalat\\OneDrive - Reply\\Documentos\\aed2-codes\\bubblesortOlimpiadas\\src\\main\\java\\com\\mycompany\\bubblesortolimpiadas\\medallists.csv";
-        Map<Medalhista, List<Medalha>> medalhistasMap = leArquivo(caminhoArquivo);
+        Map<Medalhista, List<Medalha>> medalhistasMap = Olimpiadas.leArquivo(caminhoArquivo);
 
         Scanner scanner = new Scanner(System.in);
         /*String atleta = scanner.nextLine();
