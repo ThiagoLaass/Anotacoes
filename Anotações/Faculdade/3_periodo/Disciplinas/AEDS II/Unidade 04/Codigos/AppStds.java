@@ -15,7 +15,7 @@ public class AppStds {
         abb.adicionar(90);
         abb.adicionar(20);
         abb.adicionar(15);
-        // abb.caminhamentoEmOrdem();
+        abb.caminhamentoEmOrdem();
         // clone = abb.clone();
         // System.out.println("\n");
         // clone.caminhamentoEmOrdem();
@@ -316,7 +316,6 @@ final class No<T extends Comparable<T>> {
 
         return (alturaEsquerda - alturaDireita);
     }
-
     public No<T> clone(No<T> clone) {
         No<T> clonado;
         clonado = clone;
