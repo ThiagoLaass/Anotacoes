@@ -1,5 +1,3 @@
-...no caderno
-
 - Considera-se uma tabela (vetor)
 	- é uma função de transformação sobre a chave de pesquisa
 - Endereçamento direta
