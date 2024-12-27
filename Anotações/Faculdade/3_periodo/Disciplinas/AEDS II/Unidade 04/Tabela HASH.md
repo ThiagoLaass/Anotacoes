@@ -69,4 +69,4 @@ $$
 ### Remoção
 - marcar o item como removido com uma flag, após isso, restaura a hash
 ### Restauração da tabela Hash
-- 
+- Remoção dos itens marcados como removidos

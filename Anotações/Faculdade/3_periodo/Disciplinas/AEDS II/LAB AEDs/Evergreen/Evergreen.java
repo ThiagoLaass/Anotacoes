@@ -13,7 +13,7 @@ public class Evergreen {
                 }
                 entradas[1] = scanner.nextLine();
                 String nomeDesembaralhado = desembaralharNome(entradas[0], entradas[1]);
-                System.out.println(nomeDesembaralhado);
+                System.out.println(nomeDesembaralhado); // t
             } 
         }
 

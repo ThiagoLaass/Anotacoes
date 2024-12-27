@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
+package Verde;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
@@ -10,17 +7,12 @@ import java.io.IOException;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
-import static java.util.Collections.list;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
-/**
- *
- * @author i.cathalat
- */
 class Medalha {
 
     private static final DateTimeFormatter displayFormatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
@@ -256,7 +248,7 @@ interface IOrdenator<T> {
     public double getTempoOrdenacao();
 }
 
-class Bubblesort implements IOrdenator<Medalhista> {
+class Selectionsort implements IOrdenator<Medalhista> {
 
     private Comparator<Medalhista> comparador;
     private int comparacoes = 0;
@@ -284,42 +276,42 @@ class Bubblesort implements IOrdenator<Medalhista> {
     }
 
     @Override
-    public Medalhista[] ordenar(List<Medalhista> list) {
+    public Medalhista[] ordenar(List<Medalhista> medalhistas) {
         long inicio = System.nanoTime();
         
-        Medalhista[] atletas = list.toArray(new Medalhista[0]);
-        int n = atletas.length;
-        boolean swapped;
+         int n = medalhistas.size();
 
         for (int i = 0; i < n - 1; i++) {
-            swapped = false;
-            for (int j = 0; j < n - i - 1; j++) {
-                if (comparador.compare(atletas[j], atletas[j + 1]) > 0) {
-                    Medalhista temp = atletas[j];
-                    atletas[j] = atletas[j + 1];
-                    atletas[j + 1] = temp;
-                    movimentacoes++;
+            int minIndex = i;
+
+            for (int j = i + 1; j < n; j++) {
+                if (comparador.compare(medalhistas.get(j), medalhistas.get(minIndex)) < 0) {
+                    minIndex = j;
                 }
                 comparacoes++;
             }
-            if(!swapped){
-                break;
+            if (minIndex != i) {
+                Medalhista temp = medalhistas.get(i);
+                medalhistas.set(i, medalhistas.get(minIndex));
+                movimentacoes++;
+                medalhistas.set(minIndex, temp);
+                movimentacoes++;
             }
+            comparacoes++;
         }
         
         long fim = System.nanoTime();
         tempoExecucao = fim - inicio;
 
-        return atletas;
+        return medalhistas.toArray(new Medalhista[0]);
     }
 
 }
-
-public class BubblesortOlimpiadas {
+public class InsertionsortOlimpiadas {
     
-     public static void escreverLog(long tempoExecucao, int comparacoes, int movimentacoes) {
+    public static void escreverLog(long tempoExecucao, int comparacoes, int movimentacoes) {
         String matricula = "834506"; 
-        String nomeArquivo = matricula + "_bubblesort.txt";
+        String nomeArquivo = matricula + "_selectionsort.txt";
         
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(nomeArquivo))) {
             writer.write(matricula + "\t" + tempoExecucao + "\t" + comparacoes + "\t" + movimentacoes);
@@ -356,18 +348,24 @@ String[] atletaMedalha = atleta.split(regex);*/
             }
         }
 
-        Bubblesort bubblesort = new Bubblesort();
+        
+        Selectionsort selectionsort = new Selectionsort();
+        
+        Comparator<Medalhista> nameComparator = (Medalhista m1, Medalhista m2) -> m1.getName().toUpperCase().compareTo(m2.getName().toUpperCase());
 
-        bubblesort.setComparador((Medalhista m1, Medalhista m2) -> m1.compareTo(m2));
+        
+        Medalhista[] sortedMedalhistas = selectionsort.ordenar(atletas);
 
-        Medalhista[] sortedMedalhistas = bubblesort.ordenar(atletas);
+       
+        for (Medalhista m : atletas) {
+            System.out.println(m.toString());
+        }
 
         
         for (Medalhista m : sortedMedalhistas) {
             System.out.println(m.toString());
         }
         
-        escreverLog((long) bubblesort.getTempoOrdenacao(), bubblesort.getComparacoes(), bubblesort.getMovimentacoes());
-
+        escreverLog((long) selectionsort.getTempoOrdenacao(), selectionsort.getComparacoes(), selectionsort.getMovimentacoes());
     }
 }
