@@ -11,10 +11,14 @@
             "id": "b4d97385eede600c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Anotações/Faculdade/4_periodo/Redes/Introdução.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introdução"
             }
           }
         ],
@@ -162,6 +166,19 @@
   },
   "active": "b4d97385eede600c",
   "lastOpenFiles": [
+    "Anotações/Faculdade/4_periodo/Grafos/Introdução.md",
+    "Anotações/Faculdade/4_periodo/Redes/Introdução.md",
+    "Anotações/Faculdade/4_periodo/Redes",
+    "Grade Inteligente - AES/anotações.md",
+    "Grade Inteligente - AES/O que fazer.md",
+    "Grade Inteligente - AES/Tasks.md",
+    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 04/AVL.md",
+    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 04/Árvores.md",
+    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 04/Árvore binária.md",
+    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 03/Lista.md",
+    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 03/Pilha.md",
+    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 03/Fila.md",
+    "Anotações/Faculdade/4_periodo/Grafos",
     "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/LAB AEDs/Trab_Pratico/selection.java",
     "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/LAB AEDs/Trab_Pratico/medallists.csv",
     "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/LAB AEDs/Trab_Pratico/seleção.java",
@@ -170,9 +187,6 @@
     "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/LAB AEDs/Trab_Pratico/bubblesort.java",
     "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/LAB AEDs/Trab_Pratico/Aplicacao.java",
     "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/LAB AEDs/TempoEx/main.py",
-    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/LAB AEDs/TempoEx_2/Main.java",
-    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/LAB AEDs/TempoEx/Main.java",
-    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/LAB AEDs/Recursivdade/Palindromo.java",
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura Microkernel.md",
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura simples.md",
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura de camadas.md",
@@ -188,10 +202,6 @@
     "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
     "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 01/Exercícios/Exercícios de complexidade.md",
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/Processos e Threads/Problema de Deadlock.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/Processos e Threads/Threads.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/Processos e Threads/Escalonamento de Processos.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/Processos e Threads/Conceito de Processo.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/Máquinas Virtuais/Definição de máquinas virtuais.md",
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/images/Pasted image 20240918213444.png",
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/images/Pasted image 20240904214926.png",
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/images/Pasted image 20240904213906.png",
@@ -201,12 +211,6 @@
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/images/Pasted image 20240828214418.png",
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/images/80e30bfe-a7cd-42db-9590-3c44e2875480.jpg",
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/images/Pasted image 20240828214120.png",
-    "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/Gerencia de memória/Alocação de memória.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/Exercícios/Exercícios de Revisão.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/UI.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/Disco/Escalonamento de disco.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/System Calls.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/Engenharia de Requisitos/Requisitos/Tipos de Requisitos.md",
     "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/images/Pasted image 20241119184547.png"
   ]
 }
