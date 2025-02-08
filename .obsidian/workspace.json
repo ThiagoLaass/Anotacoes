@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotações/Faculdade/4_periodo/Redes/Introdução.md",
+                "file": "Anotações/Faculdade/4_periodo/Grafos/07-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introdução"
+              "title": "07-02"
             }
           }
         ],
@@ -41,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -167,13 +168,22 @@
   "active": "b4d97385eede600c",
   "lastOpenFiles": [
     "Anotações/Faculdade/4_periodo/Grafos/Introdução.md",
+    "Anotações/Faculdade/4_periodo/Grafos/07-02.md",
+    "Anotações/Faculdade/4_periodo/Grafos/images/image.png",
+    "Anotações/Faculdade/3_periodo/Disciplinas/Engenharia de Requisitos/Metodologias Agéis/SCRUM.md",
+    "Anotações/Faculdade/3_periodo/Disciplinas/Engenharia de Requisitos/Metodologias Agéis/Manifesto Ágil.md",
+    "Anotações/Faculdade/3_periodo/Disciplinas/Engenharia de Requisitos/Problemas no desenvolvimento/Problemas de desenvolvimento.md",
+    "Anotações/Faculdade/3_periodo/Disciplinas/Engenharia de Requisitos/Problemas no desenvolvimento/Importância da Analise do Projeto.md",
+    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 04/AVL.md",
+    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 04/Árvores.md",
+    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/unidade 03/Pilha.md",
+    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/unidade 03/Lista.md",
+    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/unidade 03/Fila.md",
     "Anotações/Faculdade/4_periodo/Redes/Introdução.md",
     "Anotações/Faculdade/4_periodo/Redes",
     "Grade Inteligente - AES/anotações.md",
     "Grade Inteligente - AES/O que fazer.md",
     "Grade Inteligente - AES/Tasks.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 04/AVL.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 04/Árvores.md",
     "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 04/Árvore binária.md",
     "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 03/Lista.md",
     "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 03/Pilha.md",
@@ -193,15 +203,6 @@
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Usuário.md",
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Serviços/Serviços de Sistema ou Kernel.md",
     "Anotações/Faculdade/3_periodo/Disciplinas/Engenharia de Requisitos/Requisitos/Elicitação de Requisitos/Técnicas de elicitação de requisitos.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/Engenharia de Requisitos/Requisitos/Elicitação de Requisitos/Tipos.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/Engenharia de Requisitos/Processos de software/Modelagem de Processos/Princípios da Modelagem.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/Engenharia de Requisitos/Processos de software/Modelagem de Processos/Objetivo da modelagem.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 02/Métodos de ordenação por seleção/Algoritmos de ordenação.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 02/Métodos de ordenação por seleção/Algoritmos básicos de ordenação.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 01/Noções de Complexidade/Notações O, Ω e Θ.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 01/Noções de Complexidade/Complexidade de Algoritmos.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/Unidade 01/Exercícios/Exercícios de complexidade.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/Processos e Threads/Problema de Deadlock.md",
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/images/Pasted image 20240918213444.png",
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/images/Pasted image 20240904214926.png",
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/images/Pasted image 20240904213906.png",
@@ -210,7 +211,6 @@
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/images/Pasted image 20240902211817.png",
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/images/Pasted image 20240828214418.png",
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/images/80e30bfe-a7cd-42db-9590-3c44e2875480.jpg",
-    "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/images/Pasted image 20240828214120.png",
-    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/images/Pasted image 20241119184547.png"
+    "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/images/Pasted image 20240828214120.png"
   ]
 }
