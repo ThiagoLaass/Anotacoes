@@ -1,5 +1,4 @@
-
-# Grafos
+## Grafos
 ### Definição:
 Grafos são uma relação entre um conjunto de objetos, por exemplo as rodovias são a ligação entre as cidades, onde estas seriam os vertices, e as **rodovias** seriam as **arestas**
  - Praticamente tudo pode ser interpretado como um grafo
