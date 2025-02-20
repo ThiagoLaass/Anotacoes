@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotações/Faculdade/4_periodo/Projeto/Resenha Capitulos 5 e 6.md",
+                "file": "Anotações/Faculdade/4_periodo/Grafos/Noções de Conectividade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resenha Capitulos 5 e 6"
+              "title": "Noções de Conectividade"
             }
           }
         ],
@@ -167,14 +167,18 @@
   },
   "active": "b4d97385eede600c",
   "lastOpenFiles": [
-    "Resenha Capitulos 5 e 6.pdf",
-    "Anotações/Faculdade/4_periodo/Projeto/Resenha Capitulos 5 e 6.md",
-    "Anotações/Faculdade/4_periodo/Grafos/Introdução.md",
     "Anotações/Faculdade/4_periodo/Grafos/Representação de Grafos.md",
-    "Anotações/Faculdade/4_periodo/Redes/Introdução.md",
     "Anotações/Faculdade/4_periodo/Grafos/Isomorfismo e Subgrafos.md",
-    "Anotações/Faculdade/4_periodo/Projeto",
+    "Anotações/Faculdade/4_periodo/Grafos/Noções de Conectividade.md",
+    "Anotações/Faculdade/4_periodo/Grafos/Caminhamento em Grafos.md",
+    "Anotações/Faculdade/4_periodo/Grafos/Introdução.md",
+    "Anotações/Faculdade/4_periodo/Grafos/Tipos de Grafos.md",
     "Anotações/Faculdade/4_periodo/Grafos/07-02.md",
+    "Anotações/Faculdade/4_periodo/Projeto/Resenha Capitulos 5 e 6.md",
+    "Anotações/Faculdade/4_periodo/Grafos/Untitled",
+    "Resenha Capitulos 5 e 6.pdf",
+    "Anotações/Faculdade/4_periodo/Redes/Introdução.md",
+    "Anotações/Faculdade/4_periodo/Projeto",
     "Anotações/Faculdade/4_periodo/Grafos/images/image.png",
     "Anotações/Faculdade/4_periodo/Grafos/images/Pasted image 20250215015205.png",
     "Anotações/Faculdade/4_periodo/Grafos/images/Pasted image 20250215015235.png",
@@ -203,11 +207,7 @@
     "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/LAB AEDs/Trab_Pratico/seleção.java",
     "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/LAB AEDs/Trab_Pratico/inserção.java",
     "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/LAB AEDs/Trab_Pratico/heapsort - recursivo",
-    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/LAB AEDs/Trab_Pratico/bubblesort.java",
-    "Anotações/Faculdade/3_periodo/Disciplinas/AEDS II/LAB AEDs/Trab_Pratico/Aplicacao.java",
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura Microkernel.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura simples.md",
-    "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/Estrutura de Sisemas de Computação/Tipos de estruturas/Estrutura de camadas.md",
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/images/Pasted image 20240918213444.png",
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/images/Pasted image 20240904214926.png",
     "Anotações/Faculdade/3_periodo/Disciplinas/Sistemas Operacionais/images/Pasted image 20240904213906.png",

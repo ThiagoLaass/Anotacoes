@@ -13,5 +13,3 @@ Grafos são uma relação entre um conjunto de objetos, por exemplo as rodovias 
 - Quantidade e natureza de elementos
 - Relacionamento bidirecional ou unidirecional 
 
-### Grafo K33
-

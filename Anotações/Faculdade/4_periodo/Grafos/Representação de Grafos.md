@@ -4,7 +4,6 @@
 - Na matriz, utilizamos o valor *1* se a aresta está saindo do vertice, caso contrário, 0.
 ### Grafo não Direcionado
 - Neste caso, o valor é -1 para arestas que estão saindo do vertice, e 1 para as que estão entrando, neste caso, sem direção
-
 ## Matriz de Incidencia
 - Vertices que estão incidindo em uma aresta
 ### Grafo Direcionado
